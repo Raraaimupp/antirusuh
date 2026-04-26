@@ -142,6 +142,19 @@
       "status": "running",
       "pid": 676,
       "workDir": "/home/container/instances/7839103371AAGz5OWTe"
+    },
+    {
+      "botToken": "8684805594:AAFGQ9tJaL8CMYzbRLhrEUbVf3tzpNZm0pA",
+      "botUsername": "GachaXiaoBot",
+      "config": {
+        "BOT_TOKEN": "8684805594:AAFGQ9tJaL8CMYzbRLhrEUbVf3tzpNZm0pA",
+        "OWNER_ID": "8239875310"
+      },
+      "createdBy": "8239875310",
+      "createdAt": "2026-04-26T08:02:14.914Z",
+      "status": "running",
+      "pid": 764,
+      "workDir": "/home/container/instances/8684805594AAFGQ9tJa"
     }
   ],
   "sellers": []
