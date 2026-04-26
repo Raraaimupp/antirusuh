@@ -233,6 +233,19 @@
       "status": "running",
       "pid": 1946,
       "workDir": "/home/container/instances/7536687302AAHchiwKV"
+    },
+    {
+      "botToken": "8196205730:AAGQZtZzQLJ5AWAQIjgZyjDo-8HZ8fyfN_g",
+      "botUsername": "SUPERMAND_bot",
+      "config": {
+        "BOT_TOKEN": "8196205730:AAGQZtZzQLJ5AWAQIjgZyjDo-8HZ8fyfN_g",
+        "OWNER_ID": "8498812864"
+      },
+      "createdBy": "8498812864",
+      "createdAt": "2026-04-26T10:03:09.025Z",
+      "status": "running",
+      "pid": 2117,
+      "workDir": "/home/container/instances/8196205730AAGQZtZzQ"
     }
   ],
   "sellers": []
