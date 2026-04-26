@@ -183,19 +183,6 @@
       "workDir": "/home/container/instances/8437569973AAEmpwfo"
     },
     {
-      "botToken": "8598482509:AAERgSTX8Hhbh-BpoH7aRliOFpeQ-RN0XTE",
-      "botUsername": "Kayroz_sbot",
-      "config": {
-        "BOT_TOKEN": "8598482509:AAERgSTX8Hhbh-BpoH7aRliOFpeQ-RN0XTE",
-        "OWNER_ID": "8407149964"
-      },
-      "createdBy": "8407149964",
-      "createdAt": "2026-04-26T08:04:46.739Z",
-      "status": "running",
-      "pid": 1017,
-      "workDir": "/home/container/instances/8598482509AAERgSTX8"
-    },
-    {
       "botToken": "8678933367:AAGqd9gubRk8SSBt01_GOTBhRvC3GhrMZoM",
       "botUsername": "franzampasbot",
       "config": {
