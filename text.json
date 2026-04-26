@@ -181,19 +181,6 @@
       "status": "running",
       "pid": 924,
       "workDir": "/home/container/instances/8437569973AAEmpwfo"
-    },
-    {
-      "botToken": "8795697035:AAFrgk5xj6gwmCuLsgbQlvWQzGa2IuAcsZA",
-      "botUsername": "rassxv_bot",
-      "config": {
-        "BOT_TOKEN": "8795697035:AAFrgk5xj6gwmCuLsgbQlvWQzGa2IuAcsZA",
-        "OWNER_ID": "8417955253"
-      },
-      "createdBy": "8417955253",
-      "createdAt": "2026-04-26T08:13:17.704Z",
-      "status": "running",
-      "pid": 181,
-      "workDir": "/home/container/instances/8795697035AAFrgk5xj"
     }
   ],
   "sellers": []
