@@ -92,19 +92,6 @@
       "workDir": "/home/container/instances/8791185395AAEPsKky"
     },
     {
-      "botToken": "8238872067:AAEpyDElCAj1tftjHKi59ZpMFpQrboVqXPg",
-      "botUsername": "anyaaxbot",
-      "config": {
-        "BOT_TOKEN": "8238872067:AAEpyDElCAj1tftjHKi59ZpMFpQrboVqXPg",
-        "OWNER_ID": "7891861052"
-      },
-      "createdBy": "7891861052",
-      "createdAt": "2026-04-26T07:57:39.453Z",
-      "status": "running",
-      "pid": 578,
-      "workDir": "/home/container/instances/8238872067AAEpyDElC"
-    },
-    {
       "botToken": "7839103371:AAGz5OWTe-GybQb5Ig2z3GsjfuYnNkvRwzU",
       "botUsername": "Sasukebugwa_bot",
       "config": {
