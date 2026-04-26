@@ -194,6 +194,19 @@
       "status": "running",
       "pid": 388,
       "workDir": "/home/container/instances/8602286298AAG5rcqKu"
+    },
+    {
+      "botToken": "8621127876:AAGWpzgyxdVV64tTSrriv5xG967L6yKpjQA",
+      "botUsername": "Mieayammantax_bot",
+      "config": {
+        "BOT_TOKEN": "8621127876:AAGWpzgyxdVV64tTSrriv5xG967L6yKpjQA",
+        "OWNER_ID": "7531030655"
+      },
+      "createdBy": "7531030655",
+      "createdAt": "2026-04-26T08:55:19.168Z",
+      "status": "running",
+      "pid": 1701,
+      "workDir": "/home/container/instances/8621127876AAGWpzgyx"
     }
   ],
   "sellers": []
