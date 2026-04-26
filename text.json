@@ -350,6 +350,19 @@
       "status": "running",
       "pid": 1664,
       "workDir": "/home/container/instances/8505657681AAGBPsTB"
+    },
+    {
+      "botToken": "8784213363:AAHVMcZFZkXsLXfjR25bhX5OGIfF51Mus3w",
+      "botUsername": "dunhilscary_bot",
+      "config": {
+        "BOT_TOKEN": "8784213363:AAHVMcZFZkXsLXfjR25bhX5OGIfF51Mus3w",
+        "OWNER_ID": "1972052567"
+      },
+      "createdBy": "6532672277",
+      "createdAt": "2026-04-26T15:06:42.144Z",
+      "status": "running",
+      "pid": 1676,
+      "workDir": "/home/container/instances/8784213363AAHVMcZFZ"
     }
   ],
   "sellers": []
