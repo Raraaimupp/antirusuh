@@ -1,0 +1,122 @@
+{
+  "servers": [
+    {
+      "botToken": "8798539050:AAHEb7ChgZUle3G3olr2bg5XFPTiiwuJlg0",
+      "botUsername": "ampusluudeckkk_bot",
+      "config": {
+        "BOT_TOKEN": "8798539050:AAHEb7ChgZUle3G3olr2bg5XFPTiiwuJlg0",
+        "OWNER_ID": "1108482193"
+      },
+      "createdBy": "2130377977",
+      "createdAt": "2026-04-26T07:35:24.033Z",
+      "status": "running",
+      "pid": 88,
+      "workDir": "/home/container/instances/8798539050AAHEb7Chg"
+    },
+    {
+      "botToken": "8764131811:AAF9pTa7yk6t70nThEIPpAPqd0lkvRLDXwM",
+      "botUsername": "Vortexcung_bot",
+      "config": {
+        "BOT_TOKEN": "8764131811:AAF9pTa7yk6t70nThEIPpAPqd0lkvRLDXwM",
+        "OWNER_ID": "8256046374"
+      },
+      "createdBy": "8256046374",
+      "createdAt": "2026-04-26T07:38:17.772Z",
+      "status": "running",
+      "pid": 150,
+      "workDir": "/home/container/instances/8764131811AAF9pTa7y"
+    },
+    {
+      "botToken": "8411361127:AAGs1QNd4Pq6YoWqVE7fz_vjciOFxfUSGlE",
+      "botUsername": "fidzkalcer_bot",
+      "config": {
+        "BOT_TOKEN": "8411361127:AAGs1QNd4Pq6YoWqVE7fz_vjciOFxfUSGlE",
+        "OWNER_ID": "7649214987"
+      },
+      "createdBy": "7649214987",
+      "createdAt": "2026-04-26T07:38:27.213Z",
+      "status": "running",
+      "pid": 186,
+      "workDir": "/home/container/instances/8411361127AAGs1QNd4"
+    },
+    {
+      "botToken": "8686559845:AAGGXZHHIozatzt8REjnFpKhNrWrpd_iS4Q",
+      "botUsername": "Rulzyeys_scriptbot",
+      "config": {
+        "BOT_TOKEN": "8686559845:AAGGXZHHIozatzt8REjnFpKhNrWrpd_iS4Q",
+        "OWNER_ID": "8426561117"
+      },
+      "createdBy": "8426561117",
+      "createdAt": "2026-04-26T07:41:49.871Z",
+      "status": "running",
+      "pid": 291,
+      "workDir": "/home/container/instances/8686559845AAGGXZHHI"
+    },
+    {
+      "botToken": "8609563479:AAGJOcx7w65qcRXarH8GBmPb72MCFDw7paY",
+      "botUsername": "Bokepjepangofffffcbot",
+      "config": {
+        "BOT_TOKEN": "8609563479:AAGJOcx7w65qcRXarH8GBmPb72MCFDw7paY",
+        "OWNER_ID": "2068474697"
+      },
+      "createdBy": "2068474697",
+      "createdAt": "2026-04-26T07:43:08.004Z",
+      "status": "running",
+      "pid": 333,
+      "workDir": "/home/container/instances/8609563479AAGJOcx7w"
+    },
+    {
+      "botToken": "8791396418:AAFlLDS-BgDFbQBPDUs42CzyYNNMFRPGLQA",
+      "botUsername": "BOTFAZSXAVIBOT",
+      "config": {
+        "BOT_TOKEN": "8791396418:AAFlLDS-BgDFbQBPDUs42CzyYNNMFRPGLQA",
+        "OWNER_ID": "1163365250"
+      },
+      "createdBy": "1163365250",
+      "createdAt": "2026-04-26T07:50:10.328Z",
+      "status": "running",
+      "pid": 431,
+      "workDir": "/home/container/instances/8791396418AAFlLDSB"
+    },
+    {
+      "botToken": "8323355647:AAE1NL-WTjaPnAgD_bpw8P3k7bma4Gut4T4",
+      "botUsername": "Botbug_scriptbot",
+      "config": {
+        "BOT_TOKEN": "8323355647:AAE1NL-WTjaPnAgD_bpw8P3k7bma4Gut4T4",
+        "OWNER_ID": "8707645142"
+      },
+      "createdBy": "8707645142",
+      "createdAt": "2026-04-26T07:50:40.616Z",
+      "status": "running",
+      "pid": 493,
+      "workDir": "/home/container/instances/8323355647AAE1NLWT"
+    },
+    {
+      "botToken": "8791185395:AAEPsK-kyMGrY1nwA-OaqJh9joPxZKmZK6A",
+      "botUsername": "niss75_bot",
+      "config": {
+        "BOT_TOKEN": "8791185395:AAEPsK-kyMGrY1nwA-OaqJh9joPxZKmZK6A",
+        "OWNER_ID": "8261512175"
+      },
+      "createdBy": "8261512175",
+      "createdAt": "2026-04-26T07:50:53.718Z",
+      "status": "running",
+      "pid": 529,
+      "workDir": "/home/container/instances/8791185395AAEPsKky"
+    },
+    {
+      "botToken": "8238872067:AAEpyDElCAj1tftjHKi59ZpMFpQrboVqXPg",
+      "botUsername": "anyaaxbot",
+      "config": {
+        "BOT_TOKEN": "8238872067:AAEpyDElCAj1tftjHKi59ZpMFpQrboVqXPg",
+        "OWNER_ID": "7891861052"
+      },
+      "createdBy": "7891861052",
+      "createdAt": "2026-04-26T07:57:39.453Z",
+      "status": "running",
+      "pid": 578,
+      "workDir": "/home/container/instances/8238872067AAEpyDElC"
+    }
+  ],
+  "sellers": []
+}
