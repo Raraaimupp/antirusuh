@@ -105,19 +105,6 @@
       "workDir": "/home/container/instances/8238872067AAEpyDElC"
     },
     {
-      "botToken": "7866698982:AAGBVKKpUxqAvl4-nYveUwwo8bMVbPtHr3A",
-      "botUsername": "keytravas1_bot",
-      "config": {
-        "BOT_TOKEN": "7866698982:AAGBVKKpUxqAvl4-nYveUwwo8bMVbPtHr3A",
-        "OWNER_ID": "7261475546"
-      },
-      "createdBy": "7261475546",
-      "createdAt": "2026-04-26T07:59:01.920Z",
-      "status": "running",
-      "pid": 627,
-      "workDir": "/home/container/instances/7866698982AAGBVKKpU"
-    },
-    {
       "botToken": "7839103371:AAGz5OWTe-GybQb5Ig2z3GsjfuYnNkvRwzU",
       "botUsername": "Sasukebugwa_bot",
       "config": {
