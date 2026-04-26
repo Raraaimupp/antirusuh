@@ -183,19 +183,6 @@
       "workDir": "/home/container/instances/8437569973AAEmpwfo"
     },
     {
-      "botToken": "8640738019:AAHROniB7-ER0y3gKOTB9H1vKPAlqRmUmVo",
-      "botUsername": "MantaXTampil_bot",
-      "config": {
-        "BOT_TOKEN": "8640738019:AAHROniB7-ER0y3gKOTB9H1vKPAlqRmUmVo",
-        "OWNER_ID": "1102295941"
-      },
-      "createdBy": "1102295941",
-      "createdAt": "2026-04-26T08:15:14.965Z",
-      "status": "running",
-      "pid": 349,
-      "workDir": "/home/container/instances/8640738019AAHROniB7"
-    },
-    {
       "botToken": "8718374739:AAGoT9tbn1u0pB-CArEK2SB4PuI6YKpWzDk",
       "botUsername": "lawlietXotax_bot",
       "config": {
