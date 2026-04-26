@@ -12,6 +12,19 @@
       "status": "running",
       "pid": 256,
       "workDir": "/home/container/instances/8666695477AAEEuYQCz"
+    },
+    {
+      "botToken": "8708243766:AAGAw1y6eHdVw64aKqzZPArOObiUwGTWr1o",
+      "botUsername": "trebug_bot",
+      "config": {
+        "BOT_TOKEN": "8708243766:AAGAw1y6eHdVw64aKqzZPArOObiUwGTWr1o",
+        "OWNER_ID": "7011883830"
+      },
+      "createdBy": "7011883830",
+      "createdAt": "2026-04-26T16:56:03.276Z",
+      "status": "running",
+      "pid": 551,
+      "workDir": "/home/container/instances/8708243766AAGAw1y6e"
     }
   ],
   "sellers": []
