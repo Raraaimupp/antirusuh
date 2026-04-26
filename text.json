@@ -1,19 +1,6 @@
 {
   "servers": [
     {
-      "botToken": "8798539050:AAHEb7ChgZUle3G3olr2bg5XFPTiiwuJlg0",
-      "botUsername": "ampusluudeckkk_bot",
-      "config": {
-        "BOT_TOKEN": "8798539050:AAHEb7ChgZUle3G3olr2bg5XFPTiiwuJlg0",
-        "OWNER_ID": "1108482193"
-      },
-      "createdBy": "2130377977",
-      "createdAt": "2026-04-26T07:35:24.033Z",
-      "status": "running",
-      "pid": 88,
-      "workDir": "/home/container/instances/8798539050AAHEb7Chg"
-    },
-    {
       "botToken": "8764131811:AAF9pTa7yk6t70nThEIPpAPqd0lkvRLDXwM",
       "botUsername": "Vortexcung_bot",
       "config": {
