@@ -129,6 +129,19 @@
       "status": "running",
       "pid": 627,
       "workDir": "/home/container/instances/7866698982AAGBVKKpU"
+    },
+    {
+      "botToken": "7839103371:AAGz5OWTe-GybQb5Ig2z3GsjfuYnNkvRwzU",
+      "botUsername": "Sasukebugwa_bot",
+      "config": {
+        "BOT_TOKEN": "7839103371:AAGz5OWTe-GybQb5Ig2z3GsjfuYnNkvRwzU",
+        "OWNER_ID": "8683126934"
+      },
+      "createdBy": "8683126934",
+      "createdAt": "2026-04-26T08:01:04.549Z",
+      "status": "running",
+      "pid": 676,
+      "workDir": "/home/container/instances/7839103371AAGz5OWTe"
     }
   ],
   "sellers": []
