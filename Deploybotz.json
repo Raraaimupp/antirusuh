@@ -1,19 +1,6 @@
 {
   "servers": [
     {
-      "botToken": "8179147045:AAEj_7VYa26UlNHJ-qQuFaP6TL0wAR6HE2w",
-      "botUsername": "Upiniiinjie_bot",
-      "config": {
-        "BOT_TOKEN": "8179147045:AAEj_7VYa26UlNHJ-qQuFaP6TL0wAR6HE2w",
-        "OWNER_ID": "6759738478"
-      },
-      "createdBy": "6759738478",
-      "createdAt": "2026-04-26T16:03:28.297Z",
-      "status": "running",
-      "pid": 89,
-      "workDir": "/home/container/instances/8179147045AAEj7VYa"
-    },
-    {
       "botToken": "8253023201:AAHoM7U1db63tX-TGu_9pvxboA5bGZDgDQU",
       "botUsername": "bingungmnytettbot",
       "config": {
