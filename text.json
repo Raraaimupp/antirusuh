@@ -194,19 +194,6 @@
       "status": "running",
       "pid": 388,
       "workDir": "/home/container/instances/8602286298AAG5rcqKu"
-    },
-    {
-      "botToken": "8769649617:AAE49jpUjp--Jq7XKOD22aW2o_XUtG4jS4s",
-      "botUsername": "Otaxrendyxz_bot",
-      "config": {
-        "BOT_TOKEN": "8769649617:AAE49jpUjp--Jq7XKOD22aW2o_XUtG4jS4s",
-        "OWNER_ID": "8741581595"
-      },
-      "createdBy": "8741581595",
-      "createdAt": "2026-04-26T08:17:46.228Z",
-      "status": "running",
-      "pid": 494,
-      "workDir": "/home/container/instances/8769649617AAE49jpUj"
     }
   ],
   "sellers": []
