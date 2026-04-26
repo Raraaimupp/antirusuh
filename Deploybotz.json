@@ -27,19 +27,6 @@
       "workDir": "/home/container/instances/8708243766AAGAw1y6e"
     },
     {
-      "botToken": "8239476505:AAEdLjSuCyaZaVUP030EmxSrDPZE8SXm0zU",
-      "botUsername": "OtaXxxBugsssBot",
-      "config": {
-        "BOT_TOKEN": "8239476505:AAEdLjSuCyaZaVUP030EmxSrDPZE8SXm0zU",
-        "OWNER_ID": "1397999934"
-      },
-      "createdBy": "1397999934",
-      "createdAt": "2026-04-26T21:46:22.654Z",
-      "status": "running",
-      "pid": 847,
-      "workDir": "/home/container/instances/8239476505AAEdLjSuC"
-    },
-    {
       "botToken": "7582018433:AAE47Y0fULZvsopGk0cgFWiyFe73M1cpuFM",
       "botUsername": "BotCharesher_bot",
       "config": {
