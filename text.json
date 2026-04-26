@@ -313,19 +313,6 @@
       "workDir": "/home/container/instances/8706812075AAFr8KDd"
     },
     {
-      "botToken": "8236611737:AAGOu7qdMoMKuP-cy14pLB-j1WiM6Hmno54",
-      "botUsername": "Scarryandsiro_bot",
-      "config": {
-        "BOT_TOKEN": "8236611737:AAGOu7qdMoMKuP-cy14pLB-j1WiM6Hmno54",
-        "OWNER_ID": "8246923222"
-      },
-      "createdBy": "8246923222",
-      "createdAt": "2026-04-26T13:18:37.688Z",
-      "status": "running",
-      "pid": 1211,
-      "workDir": "/home/container/instances/8236611737AAGOu7qdM"
-    },
-    {
       "botToken": "7835675132:AAG8WAZ_gHoyfnLVVuejbC9U8ujwUNSiezg",
       "botUsername": "ZackVoidBot",
       "config": {
