@@ -207,6 +207,19 @@
       "status": "running",
       "pid": 357,
       "workDir": "/home/container/instances/8718374739AAGoT9tbn"
+    },
+    {
+      "botToken": "8602286298:AAG5rcqKu_ac_gS-mVo6ov0r7rzZW6FpWGM",
+      "botUsername": "yargvbbbot",
+      "config": {
+        "BOT_TOKEN": "8602286298:AAG5rcqKu_ac_gS-mVo6ov0r7rzZW6FpWGM",
+        "OWNER_ID": "8202973461"
+      },
+      "createdBy": "8202973461",
+      "createdAt": "2026-04-26T08:13:02.597Z",
+      "status": "running",
+      "pid": 388,
+      "workDir": "/home/container/instances/8602286298AAG5rcqKu"
     }
   ],
   "sellers": []
