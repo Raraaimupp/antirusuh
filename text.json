@@ -324,6 +324,19 @@
       "status": "running",
       "pid": 1211,
       "workDir": "/home/container/instances/8236611737AAGOu7qdM"
+    },
+    {
+      "botToken": "7835675132:AAG8WAZ_gHoyfnLVVuejbC9U8ujwUNSiezg",
+      "botUsername": "ZackVoidBot",
+      "config": {
+        "BOT_TOKEN": "7835675132:AAG8WAZ_gHoyfnLVVuejbC9U8ujwUNSiezg",
+        "OWNER_ID": "5635205730"
+      },
+      "createdBy": "5635205730",
+      "createdAt": "2026-04-26T13:19:37.936Z",
+      "status": "running",
+      "pid": 1260,
+      "workDir": "/home/container/instances/7835675132AAG8WAZg"
     }
   ],
   "sellers": []
