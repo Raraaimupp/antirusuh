@@ -1,19 +1,6 @@
 {
   "servers": [
     {
-      "botToken": "8253023201:AAHoM7U1db63tX-TGu_9pvxboA5bGZDgDQU",
-      "botUsername": "bingungmnytettbot",
-      "config": {
-        "BOT_TOKEN": "8253023201:AAHoM7U1db63tX-TGu_9pvxboA5bGZDgDQU",
-        "OWNER_ID": "1735850805"
-      },
-      "createdBy": "1735850805",
-      "createdAt": "2026-04-26T16:08:51.503Z",
-      "status": "running",
-      "pid": 145,
-      "workDir": "/home/container/instances/8253023201AAHoM7U1d"
-    },
-    {
       "botToken": "8666695477:AAEEuYQCz-Wsv7pIyo_JshOudl1QWyS-1ew",
       "botUsername": "VionaXotax_bot",
       "config": {
