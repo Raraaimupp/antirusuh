@@ -246,6 +246,19 @@
       "status": "running",
       "pid": 2443,
       "workDir": "/home/container/instances/8794242358AAEOGq6fh"
+    },
+    {
+      "botToken": "8385323153:AAF3ILdUUeofOzRAelaVOzUDCwF0nmsdZSk",
+      "botUsername": "domcycrassh_bot",
+      "config": {
+        "BOT_TOKEN": "8385323153:AAF3ILdUUeofOzRAelaVOzUDCwF0nmsdZSk",
+        "OWNER_ID": "6754515667"
+      },
+      "createdBy": "6754515667",
+      "createdAt": "2026-04-26T12:02:01.363Z",
+      "status": "running",
+      "pid": 807,
+      "workDir": "/home/container/instances/8385323153AAF3ILdUU"
     }
   ],
   "sellers": []
