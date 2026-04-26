@@ -285,6 +285,19 @@
       "status": "running",
       "pid": 905,
       "workDir": "/home/container/instances/8614451353AAEjaquST"
+    },
+    {
+      "botToken": "8242919950:AAF52slnjAj7SA3fTnuaYPJz_9I39OP8THs",
+      "botUsername": "Subcyzro_bot",
+      "config": {
+        "BOT_TOKEN": "8242919950:AAF52slnjAj7SA3fTnuaYPJz_9I39OP8THs",
+        "OWNER_ID": "5765592492"
+      },
+      "createdBy": "5765592492",
+      "createdAt": "2026-04-26T12:07:01.338Z",
+      "status": "running",
+      "pid": 1003,
+      "workDir": "/home/container/instances/8242919950AAF52slnj"
     }
   ],
   "sellers": []
