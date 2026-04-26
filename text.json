@@ -1,18 +1,4 @@
 {
-  "servers": [
-    {
-      "botToken": "8311449899:AAEmX75T6XZZERtVgkl3vOYRtgRGvArxFAs",
-      "botUsername": "ScarryDeathNewwww_bot",
-      "config": {
-        "BOT_TOKEN": "8311449899:AAEmX75T6XZZERtVgkl3vOYRtgRGvArxFAs",
-        "OWNER_ID": "2130377977"
-      },
-      "createdBy": "2130377977",
-      "createdAt": "2026-04-26T06:12:29.949Z",
-      "status": "running",
-      "pid": 88,
-      "workDir": "/home/container/instances/8311449899AAEmX75T6"
-    }
-  ],
+  "servers": [],
   "sellers": []
 }
