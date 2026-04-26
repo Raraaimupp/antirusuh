@@ -40,19 +40,6 @@
       "workDir": "/home/container/instances/8411361127AAGs1QNd4"
     },
     {
-      "botToken": "8686559845:AAGGXZHHIozatzt8REjnFpKhNrWrpd_iS4Q",
-      "botUsername": "Rulzyeys_scriptbot",
-      "config": {
-        "BOT_TOKEN": "8686559845:AAGGXZHHIozatzt8REjnFpKhNrWrpd_iS4Q",
-        "OWNER_ID": "8426561117"
-      },
-      "createdBy": "8426561117",
-      "createdAt": "2026-04-26T07:41:49.871Z",
-      "status": "running",
-      "pid": 291,
-      "workDir": "/home/container/instances/8686559845AAGGXZHHI"
-    },
-    {
       "botToken": "8609563479:AAGJOcx7w65qcRXarH8GBmPb72MCFDw7paY",
       "botUsername": "Bokepjepangofffffcbot",
       "config": {
