@@ -168,6 +168,19 @@
       "status": "running",
       "pid": 865,
       "workDir": "/home/container/instances/8743856535AAGy86VtV"
+    },
+    {
+      "botToken": "8437569973:AAE-mpwfoWdC5d0V5hUtxc1EX6upJJhFx2E",
+      "botUsername": "murbug_kipra_bot",
+      "config": {
+        "BOT_TOKEN": "8437569973:AAE-mpwfoWdC5d0V5hUtxc1EX6upJJhFx2E",
+        "OWNER_ID": "8437569973"
+      },
+      "createdBy": "5419181461",
+      "createdAt": "2026-04-26T08:03:20.294Z",
+      "status": "running",
+      "pid": 924,
+      "workDir": "/home/container/instances/8437569973AAEmpwfo"
     }
   ],
   "sellers": []
