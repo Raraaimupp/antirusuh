@@ -183,19 +183,6 @@
       "workDir": "/home/container/instances/8437569973AAEmpwfo"
     },
     {
-      "botToken": "8718374739:AAGoT9tbn1u0pB-CArEK2SB4PuI6YKpWzDk",
-      "botUsername": "lawlietXotax_bot",
-      "config": {
-        "BOT_TOKEN": "8718374739:AAGoT9tbn1u0pB-CArEK2SB4PuI6YKpWzDk",
-        "OWNER_ID": "8626361322"
-      },
-      "createdBy": "8626361322",
-      "createdAt": "2026-04-26T08:15:19.600Z",
-      "status": "running",
-      "pid": 357,
-      "workDir": "/home/container/instances/8718374739AAGoT9tbn"
-    },
-    {
       "botToken": "8602286298:AAG5rcqKu_ac_gS-mVo6ov0r7rzZW6FpWGM",
       "botUsername": "yargvbbbot",
       "config": {
