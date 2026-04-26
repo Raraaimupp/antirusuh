@@ -246,19 +246,6 @@
       "status": "running",
       "pid": 2443,
       "workDir": "/home/container/instances/8794242358AAEOGq6fh"
-    },
-    {
-      "botToken": "8640738019:AAHROniB7-ER0y3gKOTB9H1vKPAlqRmUmVo",
-      "botUsername": "MantaXTampil_bot",
-      "config": {
-        "BOT_TOKEN": "8640738019:AAHROniB7-ER0y3gKOTB9H1vKPAlqRmUmVo",
-        "OWNER_ID": "1102295941"
-      },
-      "createdBy": "1102295941",
-      "createdAt": "2026-04-26T11:57:04.825Z",
-      "status": "running",
-      "pid": 758,
-      "workDir": "/home/container/instances/8640738019AAHROniB7"
     }
   ],
   "sellers": []
