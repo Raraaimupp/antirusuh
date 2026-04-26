@@ -233,6 +233,19 @@
       "status": "running",
       "pid": 1848,
       "workDir": "/home/container/instances/8621437327AAFVUL8EW"
+    },
+    {
+      "botToken": "8662049189:AAHrigwbvnmikZOdn6tpLgAl6t0v0S28x3M",
+      "botUsername": "Dunhilmanta_bot",
+      "config": {
+        "BOT_TOKEN": "8662049189:AAHrigwbvnmikZOdn6tpLgAl6t0v0S28x3M",
+        "OWNER_ID": "8662049189"
+      },
+      "createdBy": "1972052567",
+      "createdAt": "2026-04-26T09:08:14.925Z",
+      "status": "running",
+      "pid": 1897,
+      "workDir": "/home/container/instances/8662049189AAHrigwbv"
     }
   ],
   "sellers": []
