@@ -181,19 +181,6 @@
       "status": "running",
       "pid": 924,
       "workDir": "/home/container/instances/8437569973AAEmpwfo"
-    },
-    {
-      "botToken": "8753896092:AAEY85WiiLrS9l-8j744Ox2a9cNzBshPKXg",
-      "botUsername": "pmburbot",
-      "config": {
-        "BOT_TOKEN": "8753896092:AAEY85WiiLrS9l-8j744Ox2a9cNzBshPKXg",
-        "OWNER_ID": "8202973461"
-      },
-      "createdBy": "8202973461",
-      "createdAt": "2026-04-26T08:07:33.573Z",
-      "status": "running",
-      "pid": 937,
-      "workDir": "/home/container/instances/8753896092AAEY85Wii"
     }
   ],
   "sellers": []
