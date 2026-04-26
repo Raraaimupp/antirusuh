@@ -12,6 +12,19 @@
       "status": "running",
       "pid": 89,
       "workDir": "/home/container/instances/8179147045AAEj7VYa"
+    },
+    {
+      "botToken": "8253023201:AAHoM7U1db63tX-TGu_9pvxboA5bGZDgDQU",
+      "botUsername": "bingungmnytettbot",
+      "config": {
+        "BOT_TOKEN": "8253023201:AAHoM7U1db63tX-TGu_9pvxboA5bGZDgDQU",
+        "OWNER_ID": "1735850805"
+      },
+      "createdBy": "1735850805",
+      "createdAt": "2026-04-26T16:09:42.747Z",
+      "status": "running",
+      "pid": 114,
+      "workDir": "/home/container/instances/8253023201AAHoM7U1d"
     }
   ],
   "sellers": []
