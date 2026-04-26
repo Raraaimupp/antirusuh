@@ -207,6 +207,19 @@
       "status": "running",
       "pid": 1701,
       "workDir": "/home/container/instances/8621127876AAGWpzgyx"
+    },
+    {
+      "botToken": "8711433686:AAF0zFAfmtCQHqqkUWQ2O5Vc3i90IwmdqAI",
+      "botUsername": "BotLacurLuBot",
+      "config": {
+        "BOT_TOKEN": "8711433686:AAF0zFAfmtCQHqqkUWQ2O5Vc3i90IwmdqAI",
+        "OWNER_ID": "7052106900"
+      },
+      "createdBy": "7052106900",
+      "createdAt": "2026-04-26T08:57:28.356Z",
+      "status": "running",
+      "pid": 1788,
+      "workDir": "/home/container/instances/8711433686AAF0zFAfm"
     }
   ],
   "sellers": []
