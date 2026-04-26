@@ -183,19 +183,6 @@
       "workDir": "/home/container/instances/8437569973AAEmpwfo"
     },
     {
-      "botToken": "8687122868:AAHQByLFSDL74US9Ba0T0KP4fwEm1_rAgKE",
-      "botUsername": "KENOBOT2SCARRY_bot",
-      "config": {
-        "BOT_TOKEN": "8687122868:AAHQByLFSDL74US9Ba0T0KP4fwEm1_rAgKE",
-        "OWNER_ID": "8726529450"
-      },
-      "createdBy": "8726529450",
-      "createdAt": "2026-04-26T08:08:36.435Z",
-      "status": "running",
-      "pid": 981,
-      "workDir": "/home/container/instances/8687122868AAHQByLFS"
-    },
-    {
       "botToken": "8598482509:AAERgSTX8Hhbh-BpoH7aRliOFpeQ-RN0XTE",
       "botUsername": "Kayroz_sbot",
       "config": {
