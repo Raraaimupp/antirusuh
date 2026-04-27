@@ -1,19 +1,6 @@
 {
   "servers": [
     {
-      "botToken": "8411361127:AAGs1QNd4Pq6YoWqVE7fz_vjciOFxfUSGlE",
-      "botUsername": "fidzkalcer_bot",
-      "config": {
-        "BOT_TOKEN": "8411361127:AAGs1QNd4Pq6YoWqVE7fz_vjciOFxfUSGlE",
-        "OWNER_ID": "7649214987"
-      },
-      "createdBy": "7649214987",
-      "createdAt": "2026-04-26T07:38:27.213Z",
-      "status": "running",
-      "pid": 186,
-      "workDir": "/home/container/instances/8411361127AAGs1QNd4"
-    },
-    {
       "botToken": "8791396418:AAFlLDS-BgDFbQBPDUs42CzyYNNMFRPGLQA",
       "botUsername": "BOTFAZSXAVIBOT",
       "config": {
