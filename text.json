@@ -1,19 +1,6 @@
 {
   "servers": [
     {
-      "botToken": "8323355647:AAE1NL-WTjaPnAgD_bpw8P3k7bma4Gut4T4",
-      "botUsername": "Botbug_scriptbot",
-      "config": {
-        "BOT_TOKEN": "8323355647:AAE1NL-WTjaPnAgD_bpw8P3k7bma4Gut4T4",
-        "OWNER_ID": "8707645142"
-      },
-      "createdBy": "8707645142",
-      "createdAt": "2026-04-26T07:50:40.616Z",
-      "status": "running",
-      "pid": 493,
-      "workDir": "/home/container/instances/8323355647AAE1NLWT"
-    },
-    {
       "botToken": "8791185395:AAEPsK-kyMGrY1nwA-OaqJh9joPxZKmZK6A",
       "botUsername": "niss75_bot",
       "config": {
