@@ -142,6 +142,19 @@
       "status": "running",
       "pid": 1839,
       "workDir": "/home/container/instances/8799421722AAGDEMTMx"
+    },
+    {
+      "botToken": "8040669617:AAEC5lh9SD8zpGZ0Eq8JC6StTM2WsXxZDW8",
+      "botUsername": "kampangbot_bot",
+      "config": {
+        "BOT_TOKEN": "8040669617:AAEC5lh9SD8zpGZ0Eq8JC6StTM2WsXxZDW8",
+        "OWNER_ID": "8261602791"
+      },
+      "createdBy": "8261602791",
+      "createdAt": "2026-04-27T08:28:00.598Z",
+      "status": "running",
+      "pid": 1888,
+      "workDir": "/home/container/instances/8040669617AAEC5lh9S"
     }
   ],
   "sellers": []
