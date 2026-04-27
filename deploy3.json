@@ -51,6 +51,19 @@
       "status": "running",
       "pid": 669,
       "workDir": "/home/container/instances/76b0795237daeb2ac0885fee"
+    },
+    {
+      "botToken": "8676659872:AAHTiwoB8dr8GfOruJrx_IbnQRgMIM90ELU",
+      "botUsername": "Gcirvruh_bot",
+      "config": {
+        "BOT_TOKEN": "8676659872:AAHTiwoB8dr8GfOruJrx_IbnQRgMIM90ELU",
+        "OWNER_ID": "8405490434"
+      },
+      "createdBy": "8405490434",
+      "createdAt": "2026-04-27T16:28:25.091Z",
+      "status": "running",
+      "pid": 727,
+      "workDir": "/home/container/instances/45841e491597c7897ce4d426"
     }
   ],
   "sellers": []
