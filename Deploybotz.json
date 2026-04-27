@@ -1,19 +1,6 @@
 {
   "servers": [
     {
-      "botToken": "8760125730:AAFjncKcVWnbCqfEYB65C71Q1YSemz1PA1I",
-      "botUsername": "BIMA_OFFICIALBOT",
-      "config": {
-        "BOT_TOKEN": "8760125730:AAFjncKcVWnbCqfEYB65C71Q1YSemz1PA1I",
-        "OWNER_ID": "1995369547"
-      },
-      "createdBy": "1995369547",
-      "createdAt": "2026-04-27T00:57:59.537Z",
-      "status": "running",
-      "pid": 137,
-      "workDir": "/home/container/instances/8760125730AAFjncKcV"
-    },
-    {
       "botToken": "8621784270:AAGCd0ON1PIZF9TnAyeMG7Uriq_h1Kp_19Y",
       "botUsername": "ScarryXNazeBot",
       "config": {
