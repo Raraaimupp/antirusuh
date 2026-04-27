@@ -118,17 +118,17 @@
       "workDir": "/home/container/instances/8575383033AAHlMMk4s"
     },
     {
-      "botToken": "8736009888:AAEB7hbSCLWPbubrU8Jqtg2uE5syDANdvy4",
-      "botUsername": "Wanzzxbug24bot",
+      "botToken": "8640738019:AAHROniB7-ER0y3gKOTB9H1vKPAlqRmUmVo",
+      "botUsername": "MantaXTampil_bot",
       "config": {
-        "BOT_TOKEN": "8736009888:AAEB7hbSCLWPbubrU8Jqtg2uE5syDANdvy4",
-        "OWNER_ID": "8601634033"
+        "BOT_TOKEN": "8640738019:AAHROniB7-ER0y3gKOTB9H1vKPAlqRmUmVo",
+        "OWNER_ID": "1102295941"
       },
-      "createdBy": "8601634033",
-      "createdAt": "2026-04-27T06:57:48.340Z",
+      "createdBy": "1102295941",
+      "createdAt": "2026-04-27T06:57:25.975Z",
       "status": "running",
-      "pid": 1607,
-      "workDir": "/home/container/instances/8736009888AAEB7hbSC"
+      "pid": 1614,
+      "workDir": "/home/container/instances/8640738019AAHROniB7"
     }
   ],
   "sellers": []
