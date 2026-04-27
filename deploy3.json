@@ -64,6 +64,19 @@
       "status": "running",
       "pid": 727,
       "workDir": "/home/container/instances/45841e491597c7897ce4d426"
+    },
+    {
+      "botToken": "8150190479:AAH0BmY3X1gELaSMjmZRFZkHNaEUgMi9G8E",
+      "botUsername": "Jarssbug_bot",
+      "config": {
+        "BOT_TOKEN": "8150190479:AAH0BmY3X1gELaSMjmZRFZkHNaEUgMi9G8E",
+        "OWNER_ID": "7247502776"
+      },
+      "createdBy": "7247502776",
+      "createdAt": "2026-04-27T16:29:06.837Z",
+      "status": "running",
+      "pid": 774,
+      "workDir": "/home/container/instances/4be8005054115478b0723f07"
     }
   ],
   "sellers": []
