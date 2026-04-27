@@ -1,18 +1,4 @@
 {
-  "servers": [
-    {
-      "botToken": "8715245093:AAEoTo5qMtJP9PQELPqji7Z17JA-WYsIq0s",
-      "botUsername": "GugatanRakyatSemesta_bot",
-      "config": {
-        "BOT_TOKEN": "8715245093:AAEoTo5qMtJP9PQELPqji7Z17JA-WYsIq0s",
-        "OWNER_ID": "8442277815"
-      },
-      "createdBy": "8442277815",
-      "createdAt": "2026-04-26T23:19:28.050Z",
-      "status": "running",
-      "pid": 1235,
-      "workDir": "/home/container/instances/8715245093AAEoTo5qM"
-    }
-  ],
+  "servers": [],
   "sellers": []
 }
