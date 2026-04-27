@@ -1,19 +1,6 @@
 {
   "servers": [
     {
-      "botToken": "8621784270:AAGCd0ON1PIZF9TnAyeMG7Uriq_h1Kp_19Y",
-      "botUsername": "ScarryXNazeBot",
-      "config": {
-        "BOT_TOKEN": "8621784270:AAGCd0ON1PIZF9TnAyeMG7Uriq_h1Kp_19Y",
-        "OWNER_ID": "7532396111"
-      },
-      "createdBy": "7532396111",
-      "createdAt": "2026-04-27T01:56:03.365Z",
-      "status": "running",
-      "pid": 431,
-      "workDir": "/home/container/instances/8621784270AAGCd0ON1"
-    },
-    {
       "botToken": "8503063336:AAEjT0B1Y9pPPPeBWrt9uyhK3iEtQMHxdas",
       "botUsername": "Crash_YahuBot",
       "config": {
