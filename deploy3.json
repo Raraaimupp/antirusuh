@@ -38,6 +38,19 @@
       "status": "running",
       "pid": 248,
       "workDir": "/home/container/instances/8584816431AAGiZahum"
+    },
+    {
+      "botToken": "8676082673:AAHHEZeditQ2YWQIRGROWdrwFpUoorJt1os",
+      "botUsername": "MissRose_Reabot",
+      "config": {
+        "BOT_TOKEN": "8676082673:AAHHEZeditQ2YWQIRGROWdrwFpUoorJt1os",
+        "OWNER_ID": "8512052408"
+      },
+      "createdBy": "8512052408",
+      "createdAt": "2026-04-27T12:23:14.272Z",
+      "status": "running",
+      "pid": 297,
+      "workDir": "/home/container/instances/8676082673AAHHEZedi"
     }
   ],
   "sellers": []
