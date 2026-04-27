@@ -25,19 +25,6 @@
       "status": "running",
       "pid": 110,
       "workDir": "/home/container/instances/fa606903cd529dd5e90c3320"
-    },
-    {
-      "botToken": "8684374183:AAHuwph81pESF1mS2Ilxh6UU6m4rcBI69kA",
-      "botUsername": "Auto_order_tele_to_wa_bot",
-      "config": {
-        "BOT_TOKEN": "8684374183:AAHuwph81pESF1mS2Ilxh6UU6m4rcBI69kA",
-        "OWNER_ID": "8562495602"
-      },
-      "createdBy": "8562495602",
-      "createdAt": "2026-04-27T14:17:50.631Z",
-      "status": "running",
-      "pid": 284,
-      "workDir": "/home/container/instances/2c0a295298cd916928dbc1a8"
     }
   ],
   "sellers": []
