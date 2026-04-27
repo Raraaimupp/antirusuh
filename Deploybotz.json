@@ -246,6 +246,19 @@
       "status": "running",
       "pid": 3091,
       "workDir": "/home/container/instances/8223862338AAE6IIut"
+    },
+    {
+      "botToken": "8599891955:AAFfL_w3R--C7XUmBvtgft0FpCEgTWnHFP8",
+      "botUsername": "shedownnn_bot",
+      "config": {
+        "BOT_TOKEN": "8599891955:AAFfL_w3R--C7XUmBvtgft0FpCEgTWnHFP8",
+        "OWNER_ID": "6141091665"
+      },
+      "createdBy": "6141091665",
+      "createdAt": "2026-04-27T11:57:33.634Z",
+      "status": "running",
+      "pid": 3140,
+      "workDir": "/home/container/instances/8599891955AAFfLw3R"
     }
   ],
   "sellers": []
