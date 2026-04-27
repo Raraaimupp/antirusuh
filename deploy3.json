@@ -1,19 +1,6 @@
 {
   "servers": [
     {
-      "botToken": "8707129012:AAHK-_A4XTSXLvuBIiWH7NZ8H_hZmvq1Ia8",
-      "botUsername": "ukippli_bot",
-      "config": {
-        "BOT_TOKEN": "8707129012:AAHK-_A4XTSXLvuBIiWH7NZ8H_hZmvq1Ia8",
-        "OWNER_ID": "7884324788"
-      },
-      "createdBy": "5608427012",
-      "createdAt": "2026-04-27T13:01:57.995Z",
-      "status": "running",
-      "pid": 133,
-      "workDir": "/home/container/instances/27555e9e677aa474a09be81a"
-    },
-    {
       "botToken": "8584015065:AAGDl9_sr0CevbxXQLi4Kli_NHTY_umkDpo",
       "botUsername": "aincradmods_bot",
       "config": {
