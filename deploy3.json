@@ -25,19 +25,6 @@
       "status": "running",
       "pid": 110,
       "workDir": "/home/container/instances/fa606903cd529dd5e90c3320"
-    },
-    {
-      "botToken": "8671370263:AAFSD2niEy0o6jFL2LiIi07krSPcPMjtT48",
-      "botUsername": "virkaaa_bot",
-      "config": {
-        "BOT_TOKEN": "8671370263:AAFSD2niEy0o6jFL2LiIi07krSPcPMjtT48",
-        "OWNER_ID": "8402501339"
-      },
-      "createdBy": "8402501339",
-      "createdAt": "2026-04-27T15:14:34.689Z",
-      "status": "running",
-      "pid": 481,
-      "workDir": "/home/container/instances/f00022c8f6576f0d61d6cb98"
     }
   ],
   "sellers": []
