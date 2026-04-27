@@ -64,6 +64,19 @@
       "status": "running",
       "pid": 688,
       "workDir": "/home/container/instances/8503063336AAEjT0B1Y"
+    },
+    {
+      "botToken": "8417630086:AAEOxk1V-GmSTvFndmfMX3ymf7L_S6JS5Qk",
+      "botUsername": "SHAHTREDICTBOT",
+      "config": {
+        "BOT_TOKEN": "8417630086:AAEOxk1V-GmSTvFndmfMX3ymf7L_S6JS5Qk",
+        "OWNER_ID": "8086202215"
+      },
+      "createdBy": "8086202215",
+      "createdAt": "2026-04-27T03:20:49.718Z",
+      "status": "running",
+      "pid": 737,
+      "workDir": "/home/container/instances/8417630086AAEOxk1V"
     }
   ],
   "sellers": []
