@@ -1,19 +1,6 @@
 {
   "servers": [
     {
-      "botToken": "8791185395:AAEPsK-kyMGrY1nwA-OaqJh9joPxZKmZK6A",
-      "botUsername": "niss75_bot",
-      "config": {
-        "BOT_TOKEN": "8791185395:AAEPsK-kyMGrY1nwA-OaqJh9joPxZKmZK6A",
-        "OWNER_ID": "8261512175"
-      },
-      "createdBy": "8261512175",
-      "createdAt": "2026-04-26T07:50:53.718Z",
-      "status": "running",
-      "pid": 529,
-      "workDir": "/home/container/instances/8791185395AAEPsKky"
-    },
-    {
       "botToken": "7839103371:AAGz5OWTe-GybQb5Ig2z3GsjfuYnNkvRwzU",
       "botUsername": "Sasukebugwa_bot",
       "config": {
