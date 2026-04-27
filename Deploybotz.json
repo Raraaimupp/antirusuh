@@ -105,19 +105,6 @@
       "workDir": "/home/container/instances/8642199203AAHEnpgp"
     },
     {
-      "botToken": "8757719591:AAFI52GbIc_BXtvouW3DBtVEm69V_kY46R0",
-      "botUsername": "crashprivate_bot",
-      "config": {
-        "BOT_TOKEN": "8757719591:AAFI52GbIc_BXtvouW3DBtVEm69V_kY46R0",
-        "OWNER_ID": "1891270490"
-      },
-      "createdBy": "1891270490",
-      "createdAt": "2026-04-27T09:07:36.315Z",
-      "status": "running",
-      "pid": 2194,
-      "workDir": "/home/container/instances/8757719591AAFI52GbI"
-    },
-    {
       "botToken": "8791064391:AAF7MHeaOc5Hq1j2VH-hHUfLkugiIDFs4Go",
       "botUsername": "tyo1221bot",
       "config": {
