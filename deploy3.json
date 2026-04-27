@@ -25,6 +25,19 @@
       "status": "running",
       "pid": 133,
       "workDir": "/home/container/instances/27555e9e677aa474a09be81a"
+    },
+    {
+      "botToken": "8584015065:AAGDl9_sr0CevbxXQLi4Kli_NHTY_umkDpo",
+      "botUsername": "aincradmods_bot",
+      "config": {
+        "BOT_TOKEN": "8584015065:AAGDl9_sr0CevbxXQLi4Kli_NHTY_umkDpo",
+        "OWNER_ID": "7754938461"
+      },
+      "createdBy": "7754938461",
+      "createdAt": "2026-04-27T13:18:37.336Z",
+      "status": "running",
+      "pid": 110,
+      "workDir": "/home/container/instances/fa606903cd529dd5e90c3320"
     }
   ],
   "sellers": []
