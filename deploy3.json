@@ -1,4 +1,18 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botToken": "8753195249:AAGG7UykUwwbUaAun5yEuUDRRQvEn-9TBu8",
+      "botUsername": "FALLSCFULLbot",
+      "config": {
+        "BOT_TOKEN": "8753195249:AAGG7UykUwwbUaAun5yEuUDRRQvEn-9TBu8",
+        "OWNER_ID": "7466180823"
+      },
+      "createdBy": "7944714229",
+      "createdAt": "2026-04-27T12:07:19.342Z",
+      "status": "running",
+      "pid": 108,
+      "workDir": "/home/container/instances/8753195249AAGG7UykU"
+    }
+  ],
   "sellers": []
 }
