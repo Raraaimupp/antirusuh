@@ -1,19 +1,6 @@
 {
   "servers": [
     {
-      "botToken": "8791396418:AAFlLDS-BgDFbQBPDUs42CzyYNNMFRPGLQA",
-      "botUsername": "BOTFAZSXAVIBOT",
-      "config": {
-        "BOT_TOKEN": "8791396418:AAFlLDS-BgDFbQBPDUs42CzyYNNMFRPGLQA",
-        "OWNER_ID": "1163365250"
-      },
-      "createdBy": "1163365250",
-      "createdAt": "2026-04-26T07:50:10.328Z",
-      "status": "running",
-      "pid": 431,
-      "workDir": "/home/container/instances/8791396418AAFlLDSB"
-    },
-    {
       "botToken": "8323355647:AAE1NL-WTjaPnAgD_bpw8P3k7bma4Gut4T4",
       "botUsername": "Botbug_scriptbot",
       "config": {
