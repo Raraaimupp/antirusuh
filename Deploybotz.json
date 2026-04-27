@@ -14,19 +14,6 @@
       "workDir": "/home/container/instances/8621784270AAGCd0ON1"
     },
     {
-      "botToken": "8671918939:AAH8CI2tACBAQBJMTShOFV_TzY1HgUshSzI",
-      "botUsername": "veloriaxwin_bot",
-      "config": {
-        "BOT_TOKEN": "8671918939:AAH8CI2tACBAQBJMTShOFV_TzY1HgUshSzI",
-        "OWNER_ID": "8122537022"
-      },
-      "createdBy": "8122537022",
-      "createdAt": "2026-04-27T02:10:34.983Z",
-      "status": "running",
-      "pid": 480,
-      "workDir": "/home/container/instances/8671918939AAH8CI2tA"
-    },
-    {
       "botToken": "8503063336:AAEjT0B1Y9pPPPeBWrt9uyhK3iEtQMHxdas",
       "botUsername": "Crash_YahuBot",
       "config": {
