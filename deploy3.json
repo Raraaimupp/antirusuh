@@ -103,19 +103,6 @@
       "status": "running",
       "pid": 1180,
       "workDir": "/home/container/instances/37e7b7ab992f4b4b23c1ff73"
-    },
-    {
-      "botToken": "8665410159:AAHoWdlgc2olHg-A8xMwsBls6-i-109md2o",
-      "botUsername": "TREDICT2101l_bot",
-      "config": {
-        "BOT_TOKEN": "8665410159:AAHoWdlgc2olHg-A8xMwsBls6-i-109md2o",
-        "OWNER_ID": "6125343693"
-      },
-      "createdBy": "6125343693",
-      "createdAt": "2026-04-27T19:15:36.002Z",
-      "status": "running",
-      "pid": 1227,
-      "workDir": "/home/container/instances/1734449df46bf7fc2f600667"
     }
   ],
   "sellers": []
