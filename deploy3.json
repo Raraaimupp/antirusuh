@@ -51,6 +51,19 @@
       "status": "running",
       "pid": 297,
       "workDir": "/home/container/instances/8676082673AAHHEZedi"
+    },
+    {
+      "botToken": "8223862338:AAE6IIu_tPe3-6-IZs7su1L51EEJOMNx48c",
+      "botUsername": "Morsavejustt_bot",
+      "config": {
+        "BOT_TOKEN": "8223862338:AAE6IIu_tPe3-6-IZs7su1L51EEJOMNx48c",
+        "OWNER_ID": "8214841923"
+      },
+      "createdBy": "8214841923",
+      "createdAt": "2026-04-27T12:25:50.749Z",
+      "status": "running",
+      "pid": 346,
+      "workDir": "/home/container/instances/8223862338AAE6IIut"
     }
   ],
   "sellers": []
