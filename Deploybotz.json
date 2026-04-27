@@ -116,19 +116,6 @@
       "status": "running",
       "pid": 1129,
       "workDir": "/home/container/instances/8575383033AAHlMMk4s"
-    },
-    {
-      "botToken": "8007735884:AAFJUFiLbpgxPAwrfSG4LNEBSkaCIiCPEv4",
-      "botUsername": "SectumFeast_bot",
-      "config": {
-        "BOT_TOKEN": "8007735884:AAFJUFiLbpgxPAwrfSG4LNEBSkaCIiCPEv4",
-        "OWNER_ID": "8442277815"
-      },
-      "createdBy": "8442277815",
-      "createdAt": "2026-04-27T06:05:25.260Z",
-      "status": "running",
-      "pid": 1325,
-      "workDir": "/home/container/instances/8007735884AAFJUFiLb"
     }
   ],
   "sellers": []
