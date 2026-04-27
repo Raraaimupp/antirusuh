@@ -1,19 +1,6 @@
 {
   "servers": [
     {
-      "botToken": "8309401430:AAGsAEQqu1u5IV3g4hvkw7dQocM8Z1n8y2g",
-      "botUsername": "amoscarydeath_bot",
-      "config": {
-        "BOT_TOKEN": "8309401430:AAGsAEQqu1u5IV3g4hvkw7dQocM8Z1n8y2g",
-        "OWNER_ID": "7853377721"
-      },
-      "createdBy": "7853377721",
-      "createdAt": "2026-04-26T23:10:42.261Z",
-      "status": "running",
-      "pid": 1137,
-      "workDir": "/home/container/instances/8309401430AAGsAEQqu"
-    },
-    {
       "botToken": "8725865258:AAFiaZjjKmfWflLrAB4zf3J6ZFv-Vv8J0WY",
       "botUsername": "BOTKHUSUSMRBG_bot",
       "config": {
