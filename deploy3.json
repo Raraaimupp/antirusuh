@@ -14,19 +14,6 @@
       "workDir": "/home/container/instances/8753195249AAGG7UykU"
     },
     {
-      "botToken": "8666158255:AAHqyYevT85R5qk04kvJhtDmjnBSdq2sHIw",
-      "botUsername": "kiobug_bot",
-      "config": {
-        "BOT_TOKEN": "8666158255:AAHqyYevT85R5qk04kvJhtDmjnBSdq2sHIw",
-        "OWNER_ID": "8311160309"
-      },
-      "createdBy": "8311160309",
-      "createdAt": "2026-04-27T12:08:10.052Z",
-      "status": "running",
-      "pid": 150,
-      "workDir": "/home/container/instances/8666158255AAHqyYevT"
-    },
-    {
       "botToken": "7733167031:AAGNYS9930Q1L7F3rJnF0gUhvgNa3U--SKA",
       "botUsername": "Botfisz_bot",
       "config": {
