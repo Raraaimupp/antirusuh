@@ -103,6 +103,19 @@
       "status": "running",
       "pid": 933,
       "workDir": "/home/container/instances/8734717123AAEgvqdJU"
+    },
+    {
+      "botToken": "7627105580:AAE9rQqZOFiD67m8M6VDnOOwAfU8N94UsWY",
+      "botUsername": "FuorSixbot",
+      "config": {
+        "BOT_TOKEN": "7627105580:AAE9rQqZOFiD67m8M6VDnOOwAfU8N94UsWY",
+        "OWNER_ID": "6524089707"
+      },
+      "createdBy": "6524089707",
+      "createdAt": "2026-04-27T04:57:34.770Z",
+      "status": "running",
+      "pid": 1080,
+      "workDir": "/home/container/instances/7627105580AAE9rQqZO"
     }
   ],
   "sellers": []
