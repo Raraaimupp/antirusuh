@@ -51,6 +51,19 @@
       "status": "running",
       "pid": 480,
       "workDir": "/home/container/instances/8671918939AAH8CI2tA"
+    },
+    {
+      "botToken": "8503063336:AAEjT0B1Y9pPPPeBWrt9uyhK3iEtQMHxdas",
+      "botUsername": "Crash_YahuBot",
+      "config": {
+        "BOT_TOKEN": "8503063336:AAEjT0B1Y9pPPPeBWrt9uyhK3iEtQMHxdas",
+        "OWNER_ID": "7373486317"
+      },
+      "createdBy": "7373486317",
+      "createdAt": "2026-04-27T03:14:51.585Z",
+      "status": "running",
+      "pid": 688,
+      "workDir": "/home/container/instances/8503063336AAEjT0B1Y"
     }
   ],
   "sellers": []
