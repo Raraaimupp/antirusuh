@@ -90,6 +90,19 @@
       "status": "running",
       "pid": 1086,
       "workDir": "/home/container/instances/4f45c2a9b6b57ae6e01bcfc4"
+    },
+    {
+      "botToken": "8578565372:AAFiMKDVa6APXyznlGKUkfHCKyJ-scDvX50",
+      "botUsername": "Reyz_01bot",
+      "config": {
+        "BOT_TOKEN": "8578565372:AAFiMKDVa6APXyznlGKUkfHCKyJ-scDvX50",
+        "OWNER_ID": "8273051800"
+      },
+      "createdBy": "8273051800",
+      "createdAt": "2026-04-27T18:06:25.468Z",
+      "status": "running",
+      "pid": 1180,
+      "workDir": "/home/container/instances/37e7b7ab992f4b4b23c1ff73"
     }
   ],
   "sellers": []
