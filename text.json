@@ -261,19 +261,6 @@
       "workDir": "/home/container/instances/8242919950AAF52slnj"
     },
     {
-      "botToken": "8706812075:AAFr8-KDdNVe8N1qJGdjAHeiE6_oRFyfcqE",
-      "botUsername": "AnwrSalvador_Bot",
-      "config": {
-        "BOT_TOKEN": "8706812075:AAFr8-KDdNVe8N1qJGdjAHeiE6_oRFyfcqE",
-        "OWNER_ID": "1475165818"
-      },
-      "createdBy": "1475165818",
-      "createdAt": "2026-04-26T12:16:04.158Z",
-      "status": "running",
-      "pid": 1052,
-      "workDir": "/home/container/instances/8706812075AAFr8KDd"
-    },
-    {
       "botToken": "7835675132:AAG8WAZ_gHoyfnLVVuejbC9U8ujwUNSiezg",
       "botUsername": "ZackVoidBot",
       "config": {
