@@ -64,6 +64,19 @@
       "status": "running",
       "pid": 774,
       "workDir": "/home/container/instances/4be8005054115478b0723f07"
+    },
+    {
+      "botToken": "7715418191:AAGLxg4Veans7u67e5ThaEnxAZzi4EDURSk",
+      "botUsername": "farelbug_bot",
+      "config": {
+        "BOT_TOKEN": "7715418191:AAGLxg4Veans7u67e5ThaEnxAZzi4EDURSk",
+        "OWNER_ID": "7101118013"
+      },
+      "createdBy": "7101118013",
+      "createdAt": "2026-04-27T16:58:26.884Z",
+      "status": "running",
+      "pid": 995,
+      "workDir": "/home/container/instances/dd1f7b0d90cc842cebb2f988"
     }
   ],
   "sellers": []
