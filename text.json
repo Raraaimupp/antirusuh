@@ -14,19 +14,6 @@
       "workDir": "/home/container/instances/8411361127AAGs1QNd4"
     },
     {
-      "botToken": "8609563479:AAGJOcx7w65qcRXarH8GBmPb72MCFDw7paY",
-      "botUsername": "Bokepjepangofffffcbot",
-      "config": {
-        "BOT_TOKEN": "8609563479:AAGJOcx7w65qcRXarH8GBmPb72MCFDw7paY",
-        "OWNER_ID": "2068474697"
-      },
-      "createdBy": "2068474697",
-      "createdAt": "2026-04-26T07:43:08.004Z",
-      "status": "running",
-      "pid": 333,
-      "workDir": "/home/container/instances/8609563479AAGJOcx7w"
-    },
-    {
       "botToken": "8791396418:AAFlLDS-BgDFbQBPDUs42CzyYNNMFRPGLQA",
       "botUsername": "BOTFAZSXAVIBOT",
       "config": {
