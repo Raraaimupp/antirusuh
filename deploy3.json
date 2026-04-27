@@ -38,6 +38,19 @@
       "status": "running",
       "pid": 622,
       "workDir": "/home/container/instances/679f6ee00a87fb7f7e386351"
+    },
+    {
+      "botToken": "8561790971:AAHhyIMhgEJ9RBry_e8CbSeC9YYh2jGO8S0",
+      "botUsername": "scarydeploy_bot",
+      "config": {
+        "BOT_TOKEN": "8561790971:AAHhyIMhgEJ9RBry_e8CbSeC9YYh2jGO8S0",
+        "OWNER_ID": "6532672277"
+      },
+      "createdBy": "6532672277",
+      "createdAt": "2026-04-27T16:25:05.324Z",
+      "status": "running",
+      "pid": 669,
+      "workDir": "/home/container/instances/76b0795237daeb2ac0885fee"
     }
   ],
   "sellers": []
