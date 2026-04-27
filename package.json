@@ -1,0 +1,18 @@
+{
+  "name": "pakasir-bot",
+  "version": "1.0.0",
+  "description": "Auto QRIS Pakasir Telegram Bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Raraa",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "express": "^4.18.2",
+    "node-telegram-bot-api": "^0.61.0",
+    "qrcode": "^1.5.3"
+  }
+}
