@@ -118,19 +118,6 @@
       "workDir": "/home/container/instances/8791064391AAF7MHeaO"
     },
     {
-      "botToken": "8671370263:AAFSD2niEy0o6jFL2LiIi07krSPcPMjtT48",
-      "botUsername": "virkaaa_bot",
-      "config": {
-        "BOT_TOKEN": "8671370263:AAFSD2niEy0o6jFL2LiIi07krSPcPMjtT48",
-        "OWNER_ID": "8402501339"
-      },
-      "createdBy": "8402501339",
-      "createdAt": "2026-04-27T10:11:06.798Z",
-      "status": "running",
-      "pid": 2439,
-      "workDir": "/home/container/instances/8671370263AAFSD2niE"
-    },
-    {
       "botToken": "8667568151:AAH9nSniiqBWGGGXNfPZuVFtAJnOxxSZMvU",
       "botUsername": "scfreebre_scriptbot",
       "config": {
