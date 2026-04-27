@@ -1,4 +1,18 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botToken": "8679396604:AAGNpFNWWbFI8t-BBAPexzX1-qH1RZSBZdQ",
+      "botUsername": "Botlolot_Bot",
+      "config": {
+        "BOT_TOKEN": "8679396604:AAGNpFNWWbFI8t-BBAPexzX1-qH1RZSBZdQ",
+        "OWNER_ID": "7884324788"
+      },
+      "createdBy": "7884324788",
+      "createdAt": "2026-04-27T12:59:25.257Z",
+      "status": "running",
+      "pid": 86,
+      "workDir": "/home/container/instances/7c40816d6a97a32837c4d5e2"
+    }
+  ],
   "sellers": []
 }
