@@ -79,17 +79,17 @@
       "workDir": "/home/container/instances/8417630086AAEOxk1V"
     },
     {
-      "botToken": "8743931223:AAF4QcKagN13W9yyxBZXj1Norg86Wv6-n-Q",
-      "botUsername": "cikidaw617_bot",
+      "botToken": "8642230015:AAFGNVGzHp7iOwvbkg7thmEHVQu9bRwDuvA",
+      "botUsername": "fidzzbug_bot",
       "config": {
-        "BOT_TOKEN": "8743931223:AAF4QcKagN13W9yyxBZXj1Norg86Wv6-n-Q",
-        "OWNER_ID": "8186527193"
+        "BOT_TOKEN": "8642230015:AAFGNVGzHp7iOwvbkg7thmEHVQu9bRwDuvA",
+        "OWNER_ID": "8758613036"
       },
-      "createdBy": "8186527193",
-      "createdAt": "2026-04-27T03:55:01.921Z",
+      "createdBy": "7372792387",
+      "createdAt": "2026-04-27T03:54:44.636Z",
       "status": "running",
-      "pid": 872,
-      "workDir": "/home/container/instances/8743931223AAF4QcKag"
+      "pid": 879,
+      "workDir": "/home/container/instances/8642230015AAFGNVGzH"
     }
   ],
   "sellers": []
