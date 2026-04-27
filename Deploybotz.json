@@ -170,19 +170,6 @@
       "workDir": "/home/container/instances/8757719591AAFI52GbI"
     },
     {
-      "botToken": "8353802128:AAHfvuj4Henb6Q7LCgfR0vVkHeO_p-HOMSM",
-      "botUsername": "XGUARDIANSBUG2bot",
-      "config": {
-        "BOT_TOKEN": "8353802128:AAHfvuj4Henb6Q7LCgfR0vVkHeO_p-HOMSM",
-        "OWNER_ID": "6037319980"
-      },
-      "createdBy": "6037319980",
-      "createdAt": "2026-04-27T10:07:12.327Z",
-      "status": "running",
-      "pid": 2292,
-      "workDir": "/home/container/instances/8353802128AAHfvuj4H"
-    },
-    {
       "botToken": "8791064391:AAF7MHeaOc5Hq1j2VH-hHUfLkugiIDFs4Go",
       "botUsername": "tyo1221bot",
       "config": {
