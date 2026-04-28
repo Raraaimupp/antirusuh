@@ -376,6 +376,19 @@
       "status": "running",
       "pid": 24695,
       "workDir": "/home/container/instances/2847c1e9db6b8e54d13c1ba5"
+    },
+    {
+      "botToken": "8568819583:AAHiMFJ5_Idxz9fMVges2OIo-XqtwgCAuVA",
+      "botUsername": "Scarydeatharsky_bot",
+      "config": {
+        "BOT_TOKEN": "8568819583:AAHiMFJ5_Idxz9fMVges2OIo-XqtwgCAuVA",
+        "OWNER_ID": "8524377622"
+      },
+      "createdBy": "8524377622",
+      "createdAt": "2026-04-28T14:28:56.056Z",
+      "status": "running",
+      "pid": 25185,
+      "workDir": "/home/container/instances/e1636a2cc046baa36c84effb"
     }
   ],
   "sellers": []
