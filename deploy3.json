@@ -311,19 +311,6 @@
       "status": "running",
       "pid": 3914,
       "workDir": "/home/container/instances/135063140fcf7868af356e73"
-    },
-    {
-      "botToken": "8788610849:AAGK0_TmGa7pWzChhrp9ojuMYmEZkmzdLuI",
-      "botUsername": "Limtolol_bot",
-      "config": {
-        "BOT_TOKEN": "8788610849:AAGK0_TmGa7pWzChhrp9ojuMYmEZkmzdLuI",
-        "OWNER_ID": "7884324788"
-      },
-      "createdBy": "7884324788",
-      "createdAt": "2026-04-28T10:38:41.662Z",
-      "status": "running",
-      "pid": 3961,
-      "workDir": "/home/container/instances/3b3ee509bc1305e30b0f4624"
     }
   ],
   "sellers": []
