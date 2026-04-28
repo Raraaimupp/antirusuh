@@ -207,6 +207,19 @@
       "status": "running",
       "pid": 2667,
       "workDir": "/home/container/instances/725713b709afa07b225b45e7"
+    },
+    {
+      "botToken": "8377959784:AAHtZi_t3cPc8VBtr2blYcVK4YpW947xkak",
+      "botUsername": "gratisandrasff_bot",
+      "config": {
+        "BOT_TOKEN": "8377959784:AAHtZi_t3cPc8VBtr2blYcVK4YpW947xkak",
+        "OWNER_ID": "7786228907"
+      },
+      "createdBy": "7786228907",
+      "createdAt": "2026-04-28T06:25:50.373Z",
+      "status": "running",
+      "pid": 2736,
+      "workDir": "/home/container/instances/3da323f2ba368c3355d6ab4c"
     }
   ],
   "sellers": []
