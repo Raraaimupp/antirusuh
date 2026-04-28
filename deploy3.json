@@ -207,6 +207,19 @@
       "status": "running",
       "pid": 2667,
       "workDir": "/home/container/instances/725713b709afa07b225b45e7"
+    },
+    {
+      "botToken": "8164115375:AAF3y_jnsXP_waRYc4lpvwyIWmLXHfa_rxw",
+      "botUsername": "veloria_kingbot",
+      "config": {
+        "BOT_TOKEN": "8164115375:AAF3y_jnsXP_waRYc4lpvwyIWmLXHfa_rxw",
+        "OWNER_ID": "5310010584"
+      },
+      "createdBy": "5310010584",
+      "createdAt": "2026-04-28T06:33:12.473Z",
+      "status": "running",
+      "pid": 2783,
+      "workDir": "/home/container/instances/88d65a8e12b830b338d397fa"
     }
   ],
   "sellers": []
