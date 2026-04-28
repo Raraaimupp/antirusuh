@@ -116,6 +116,19 @@
       "status": "running",
       "pid": 1426,
       "workDir": "/home/container/instances/f867e42a9e25678ce24ae05a"
+    },
+    {
+      "botToken": "7536687302:AAHchiwKVPuegCeey1KAyvP2yDwSuEG6KhU",
+      "botUsername": "ngajuga_bot",
+      "config": {
+        "BOT_TOKEN": "7536687302:AAHchiwKVPuegCeey1KAyvP2yDwSuEG6KhU",
+        "OWNER_ID": "7556534062"
+      },
+      "createdBy": "7556534062",
+      "createdAt": "2026-04-28T00:09:51.886Z",
+      "status": "running",
+      "pid": 1641,
+      "workDir": "/home/container/instances/e4979c24d2cc4ba062b96825"
     }
   ],
   "sellers": []
