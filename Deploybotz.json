@@ -66,19 +66,6 @@
       "workDir": "/home/container/instances/8575383033AAHlMMk4s"
     },
     {
-      "botToken": "8623310105:AAEG33jPFZrkV8pAsYt7j7pP0HS7m0XaOEs",
-      "botUsername": "vinascary_bot",
-      "config": {
-        "BOT_TOKEN": "8623310105:AAEG33jPFZrkV8pAsYt7j7pP0HS7m0XaOEs",
-        "OWNER_ID": "412627692"
-      },
-      "createdBy": "6532672277",
-      "createdAt": "2026-04-27T08:17:29.122Z",
-      "status": "running",
-      "pid": 1790,
-      "workDir": "/home/container/instances/8623310105AAEG33jPF"
-    },
-    {
       "botToken": "8040669617:AAEC5lh9SD8zpGZ0Eq8JC6StTM2WsXxZDW8",
       "botUsername": "kampangbot_bot",
       "config": {
