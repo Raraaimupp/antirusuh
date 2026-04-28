@@ -233,6 +233,19 @@
       "status": "running",
       "pid": 15349,
       "workDir": "/home/container/instances/081a8c7c77e83fcb0894e1ef"
+    },
+    {
+      "botToken": "8773742312:AAEzhf7Tjm-EsvDEhoSduapgfv-vNsmGDfU",
+      "botUsername": "Pler6655_bot",
+      "config": {
+        "BOT_TOKEN": "8773742312:AAEzhf7Tjm-EsvDEhoSduapgfv-vNsmGDfU",
+        "OWNER_ID": "8634237170"
+      },
+      "createdBy": "8634237170",
+      "createdAt": "2026-04-28T12:57:43.174Z",
+      "status": "running",
+      "pid": 17799,
+      "workDir": "/home/container/instances/a005a950c3d368eeb5169d61"
     }
   ],
   "sellers": []
