@@ -339,19 +339,6 @@
       "workDir": "/home/container/instances/319f07b00c25fed8904e371f"
     },
     {
-      "botToken": "8666158255:AAHqyYevT85R5qk04kvJhtDmjnBSdq2sHIw",
-      "botUsername": "kiobug_bot",
-      "config": {
-        "BOT_TOKEN": "8666158255:AAHqyYevT85R5qk04kvJhtDmjnBSdq2sHIw",
-        "OWNER_ID": "8311160309"
-      },
-      "createdBy": "8311160309",
-      "createdAt": "2026-04-28T14:20:55.065Z",
-      "status": "running",
-      "pid": 24205,
-      "workDir": "/home/container/instances/cbcbb7cda1e65a6db0469f1e"
-    },
-    {
       "botToken": "8666478752:AAEJTCpJXYplnb2lQLBqA-6gLlcKoRxnkgA",
       "botUsername": "GgggGabutaja_bot",
       "config": {
