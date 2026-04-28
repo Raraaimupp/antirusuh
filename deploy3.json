@@ -38,6 +38,19 @@
       "status": "running",
       "pid": 1942,
       "workDir": "/home/container/instances/98158ba39f0540d445c6e4ab"
+    },
+    {
+      "botToken": "8525528443:AAEq5xcEdYW4IKYyIFP6h7JNanDHwtJDnOE",
+      "botUsername": "ranz_back_bot",
+      "config": {
+        "BOT_TOKEN": "8525528443:AAEq5xcEdYW4IKYyIFP6h7JNanDHwtJDnOE",
+        "OWNER_ID": "8781560935"
+      },
+      "createdBy": "8781560935",
+      "createdAt": "2026-04-28T11:28:20.350Z",
+      "status": "running",
+      "pid": 1999,
+      "workDir": "/home/container/instances/0b17096d5ae4cd7000ea281b"
     }
   ],
   "sellers": []
