@@ -272,6 +272,19 @@
       "status": "running",
       "pid": 19293,
       "workDir": "/home/container/instances/10b959d0f7a1a6dc165256a1"
+    },
+    {
+      "botToken": "8626587132:AAEBPcjtUi5RaHl_u5bnMF9RFhjaa3n-TTw",
+      "botUsername": "elzyanparek_bot",
+      "config": {
+        "BOT_TOKEN": "8626587132:AAEBPcjtUi5RaHl_u5bnMF9RFhjaa3n-TTw",
+        "OWNER_ID": "8245320731"
+      },
+      "createdBy": "8245320731",
+      "createdAt": "2026-04-28T13:21:36.690Z",
+      "status": "running",
+      "pid": 20285,
+      "workDir": "/home/container/instances/15854734201ba21b1288f7f6"
     }
   ],
   "sellers": []
