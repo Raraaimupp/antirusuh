@@ -207,6 +207,19 @@
       "status": "running",
       "pid": 7891,
       "workDir": "/home/container/instances/3b3ee509bc1305e30b0f4624"
+    },
+    {
+      "botToken": "8606179183:AAGnTFn18jNmhCjgH78fMOXaadVnmp81bSQ",
+      "botUsername": "epriDANIAN_bot",
+      "config": {
+        "BOT_TOKEN": "8606179183:AAGnTFn18jNmhCjgH78fMOXaadVnmp81bSQ",
+        "OWNER_ID": "8282762140"
+      },
+      "createdBy": "8282762140",
+      "createdAt": "2026-04-28T11:47:22.446Z",
+      "status": "running",
+      "pid": 8381,
+      "workDir": "/home/container/instances/4fe772c06d9d1b589ddc5a20"
     }
   ],
   "sellers": []
