@@ -118,19 +118,6 @@
       "workDir": "/home/container/instances/e4979c24d2cc4ba062b96825"
     },
     {
-      "botToken": "8435016800:AAGrBB4pEU1zVOWN0d4RrK83zwjiemOpdFg",
-      "botUsername": "Yamimu_bot",
-      "config": {
-        "BOT_TOKEN": "8435016800:AAGrBB4pEU1zVOWN0d4RrK83zwjiemOpdFg",
-        "OWNER_ID": "8576060749"
-      },
-      "createdBy": "8576060749",
-      "createdAt": "2026-04-28T01:19:18.555Z",
-      "status": "running",
-      "pid": 1869,
-      "workDir": "/home/container/instances/ff5ed3647255b422fe080f30"
-    },
-    {
       "botToken": "8618283115:AAGVjSI45lobgFVgcvr-k-bA6G1Wm5w-a0c",
       "botUsername": "iszzzbkpp_bot",
       "config": {
