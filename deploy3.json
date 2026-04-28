@@ -287,19 +287,6 @@
       "workDir": "/home/container/instances/5dcf15c443634347694aada7"
     },
     {
-      "botToken": "8615158471:AAEZ2Wz0mqM630m4l--SaGscsHy-MKc7sJM",
-      "botUsername": "veloriaabugbot",
-      "config": {
-        "BOT_TOKEN": "8615158471:AAEZ2Wz0mqM630m4l--SaGscsHy-MKc7sJM",
-        "OWNER_ID": "8248750753"
-      },
-      "createdBy": "8248750753",
-      "createdAt": "2026-04-28T10:15:06.363Z",
-      "status": "running",
-      "pid": 3820,
-      "workDir": "/home/container/instances/ce680213432197763aba6273"
-    },
-    {
       "botToken": "8374968407:AAGy-5sohTYOa67fHibfNRfZzIYGdRowh2o",
       "botUsername": "Xzoromdbot",
       "config": {
