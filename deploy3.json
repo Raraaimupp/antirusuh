@@ -181,6 +181,19 @@
       "status": "running",
       "pid": 2783,
       "workDir": "/home/container/instances/88d65a8e12b830b338d397fa"
+    },
+    {
+      "botToken": "8464893832:AAEr2dOxxlW8IFc6B1Y-HmiNnjtfXl5OfrI",
+      "botUsername": "FixMerahYanbe_bot",
+      "config": {
+        "BOT_TOKEN": "8464893832:AAEr2dOxxlW8IFc6B1Y-HmiNnjtfXl5OfrI",
+        "OWNER_ID": "1829284726"
+      },
+      "createdBy": "1829284726",
+      "createdAt": "2026-04-28T08:10:20.427Z",
+      "status": "running",
+      "pid": 3001,
+      "workDir": "/home/container/instances/f107959184fc52f2a43bc901"
     }
   ],
   "sellers": []
