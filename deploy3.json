@@ -207,6 +207,19 @@
       "status": "running",
       "pid": 11811,
       "workDir": "/home/container/instances/9963d6a2a0137a9d51c4be97"
+    },
+    {
+      "botToken": "8618812192:AAFbwQ3T2XK4gUE_3jU4AbmBlRJg-omMiOQ",
+      "botUsername": "tesburgeheebot",
+      "config": {
+        "BOT_TOKEN": "8618812192:AAFbwQ3T2XK4gUE_3jU4AbmBlRJg-omMiOQ",
+        "OWNER_ID": "8293307989"
+      },
+      "createdBy": "8293307989",
+      "createdAt": "2026-04-28T12:05:05.018Z",
+      "status": "running",
+      "pid": 12667,
+      "workDir": "/home/container/instances/664bce0e07b13d0aafb4c3f4"
     }
   ],
   "sellers": []
