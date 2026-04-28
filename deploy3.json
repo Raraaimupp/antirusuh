@@ -391,19 +391,6 @@
       "workDir": "/home/container/instances/b18fb00975df89393d65e6b0"
     },
     {
-      "botToken": "8650262828:AAFivanYIQw62WPWidIpaL4taFdAw-pdmXE",
-      "botUsername": "Angkasatesbugbot",
-      "config": {
-        "BOT_TOKEN": "8650262828:AAFivanYIQw62WPWidIpaL4taFdAw-pdmXE",
-        "OWNER_ID": "7331164244"
-      },
-      "createdBy": "7331164244",
-      "createdAt": "2026-04-28T15:11:15.950Z",
-      "status": "running",
-      "pid": 27145,
-      "workDir": "/home/container/instances/6377ac7d1afd65c37b85d1cf"
-    },
-    {
       "botToken": "8649590816:AAE0-ZylZaNdAJwbAA5upeU4ftaQWZbM4Ck",
       "botUsername": "Bug_script_Bot",
       "config": {
