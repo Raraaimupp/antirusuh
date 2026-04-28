@@ -183,19 +183,6 @@
       "workDir": "/home/container/instances/4f45c2a9b6b57ae6e01bcfc4"
     },
     {
-      "botToken": "8753195249:AAGG7UykUwwbUaAun5yEuUDRRQvEn-9TBu8",
-      "botUsername": "FALLSCFULLbot",
-      "config": {
-        "BOT_TOKEN": "8753195249:AAGG7UykUwwbUaAun5yEuUDRRQvEn-9TBu8",
-        "OWNER_ID": "7466180823"
-      },
-      "createdBy": "7944714229",
-      "createdAt": "2026-04-28T06:01:05.442Z",
-      "status": "running",
-      "pid": 2620,
-      "workDir": "/home/container/instances/99d50d0c134e0a322c8ca5cf"
-    },
-    {
       "botToken": "8671789479:AAH5TR0EfzFDKiKEDfD5WpBFtR-cnIGvXFs",
       "botUsername": "Ramzzganteng_bot",
       "config": {
