@@ -246,6 +246,19 @@
       "status": "running",
       "pid": 3333,
       "workDir": "/home/container/instances/1f0361a561164c6c256613b7"
+    },
+    {
+      "botToken": "8650262828:AAFivanYIQw62WPWidIpaL4taFdAw-pdmXE",
+      "botUsername": "Angkasatesbugbot",
+      "config": {
+        "BOT_TOKEN": "8650262828:AAFivanYIQw62WPWidIpaL4taFdAw-pdmXE",
+        "OWNER_ID": "7331164244"
+      },
+      "createdBy": "7331164244",
+      "createdAt": "2026-04-28T08:38:02.136Z",
+      "status": "running",
+      "pid": 3385,
+      "workDir": "/home/container/instances/6377ac7d1afd65c37b85d1cf"
     }
   ],
   "sellers": []
