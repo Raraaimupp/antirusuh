@@ -14,19 +14,6 @@
       "workDir": "/home/container/instances/f4ab1e7ed04bba7a88d48902"
     },
     {
-      "botToken": "8793278005:AAHZWD47sofsFiomzDz_oDfXg3Cghi4zz44",
-      "botUsername": "GINDA_scriptbot",
-      "config": {
-        "BOT_TOKEN": "8793278005:AAHZWD47sofsFiomzDz_oDfXg3Cghi4zz44",
-        "OWNER_ID": "8707645142"
-      },
-      "createdBy": "8707645142",
-      "createdAt": "2026-04-28T11:26:39.621Z",
-      "status": "running",
-      "pid": 1019,
-      "workDir": "/home/container/instances/1b5d6b3a41ae6b223c200046"
-    },
-    {
       "botToken": "8525528443:AAEq5xcEdYW4IKYyIFP6h7JNanDHwtJDnOE",
       "botUsername": "ranz_back_bot",
       "config": {
