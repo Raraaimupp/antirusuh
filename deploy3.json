@@ -415,19 +415,6 @@
       "status": "running",
       "pid": 30587,
       "workDir": "/home/container/instances/181f62ea774847b471bbfe1e"
-    },
-    {
-      "botToken": "8239476505:AAG2Iyq7xtvcKn0JK1G9CQzsuTGRUZN8FDc",
-      "botUsername": "OtaXxxBugsssBot",
-      "config": {
-        "BOT_TOKEN": "8239476505:AAG2Iyq7xtvcKn0JK1G9CQzsuTGRUZN8FDc",
-        "OWNER_ID": "1397999934"
-      },
-      "createdBy": "1397999934",
-      "createdAt": "2026-04-28T16:23:07.655Z",
-      "status": "running",
-      "pid": 30599,
-      "workDir": "/home/container/instances/9a86dd5ae6ce7d6c35e6ce4c"
     }
   ],
   "sellers": []
