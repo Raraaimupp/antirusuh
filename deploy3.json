@@ -233,6 +233,19 @@
       "status": "running",
       "pid": 3326,
       "workDir": "/home/container/instances/052a32669a5a594a69cd26d3"
+    },
+    {
+      "botToken": "8794242358:AAEOGq6fhJme-4P0Bw5U8HWzRnbN5fnERL0",
+      "botUsername": "mobilmbg_bot",
+      "config": {
+        "BOT_TOKEN": "8794242358:AAEOGq6fhJme-4P0Bw5U8HWzRnbN5fnERL0",
+        "OWNER_ID": "8397823835"
+      },
+      "createdBy": "8397823835",
+      "createdAt": "2026-04-28T08:36:39.808Z",
+      "status": "running",
+      "pid": 3333,
+      "workDir": "/home/container/instances/1f0361a561164c6c256613b7"
     }
   ],
   "sellers": []
