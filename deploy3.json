@@ -27,19 +27,6 @@
       "workDir": "/home/container/instances/1b5d6b3a41ae6b223c200046"
     },
     {
-      "botToken": "8543651549:AAFuRYdlkolbb6j2ctDcYQqKJtaq7rRF2KM",
-      "botUsername": "Ardibug01_bot",
-      "config": {
-        "BOT_TOKEN": "8543651549:AAFuRYdlkolbb6j2ctDcYQqKJtaq7rRF2KM",
-        "OWNER_ID": "8070084978"
-      },
-      "createdBy": "8070084978",
-      "createdAt": "2026-04-28T11:28:19.554Z",
-      "status": "running",
-      "pid": 1942,
-      "workDir": "/home/container/instances/98158ba39f0540d445c6e4ab"
-    },
-    {
       "botToken": "8525528443:AAEq5xcEdYW4IKYyIFP6h7JNanDHwtJDnOE",
       "botUsername": "ranz_back_bot",
       "config": {
