@@ -194,6 +194,19 @@
       "status": "running",
       "pid": 10707,
       "workDir": "/home/container/instances/b5916bbc3f4d0eb3cf3c930a"
+    },
+    {
+      "botToken": "8678933367:AAGqd9gubRk8SSBt01_GOTBhRvC3GhrMZoM",
+      "botUsername": "franzampasbot",
+      "config": {
+        "BOT_TOKEN": "8678933367:AAGqd9gubRk8SSBt01_GOTBhRvC3GhrMZoM",
+        "OWNER_ID": "7588418990"
+      },
+      "createdBy": "7588418990",
+      "createdAt": "2026-04-28T12:03:41.615Z",
+      "status": "running",
+      "pid": 11811,
+      "workDir": "/home/container/instances/9963d6a2a0137a9d51c4be97"
     }
   ],
   "sellers": []
