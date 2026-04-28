@@ -142,6 +142,19 @@
       "status": "running",
       "pid": 2037,
       "workDir": "/home/container/instances/0b17096d5ae4cd7000ea281b"
+    },
+    {
+      "botToken": "8435016800:AAGrBB4pEU1zVOWN0d4RrK83zwjiemOpdFg",
+      "botUsername": "Yamimu_bot",
+      "config": {
+        "BOT_TOKEN": "8435016800:AAGrBB4pEU1zVOWN0d4RrK83zwjiemOpdFg",
+        "OWNER_ID": "8576060749"
+      },
+      "createdBy": "8576060749",
+      "createdAt": "2026-04-28T03:24:32.495Z",
+      "status": "running",
+      "pid": 2131,
+      "workDir": "/home/container/instances/ff5ed3647255b422fe080f30"
     }
   ],
   "sellers": []
