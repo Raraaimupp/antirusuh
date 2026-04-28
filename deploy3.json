@@ -207,6 +207,19 @@
       "status": "running",
       "pid": 9851,
       "workDir": "/home/container/instances/ca5ed397c7bab9644fe019c7"
+    },
+    {
+      "botToken": "7831029787:AAE-uQysOfUrmMa7xzwmSkGULC5VvHqyNg4",
+      "botUsername": "SANXY_BOT",
+      "config": {
+        "BOT_TOKEN": "7831029787:AAE-uQysOfUrmMa7xzwmSkGULC5VvHqyNg4",
+        "OWNER_ID": "7831029787"
+      },
+      "createdBy": "7857623864",
+      "createdAt": "2026-04-28T11:57:00.148Z",
+      "status": "running",
+      "pid": 10707,
+      "workDir": "/home/container/instances/b5916bbc3f4d0eb3cf3c930a"
     }
   ],
   "sellers": []
