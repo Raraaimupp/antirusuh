@@ -103,6 +103,19 @@
       "status": "running",
       "pid": 3959,
       "workDir": "/home/container/instances/39c3d60f7f9c7977cf73612b"
+    },
+    {
+      "botToken": "8761363686:AAHl8kpAqNDMpAxDC37U6s74AKvKhhC5rCY",
+      "botUsername": "zest_bug_bot",
+      "config": {
+        "BOT_TOKEN": "8761363686:AAHl8kpAqNDMpAxDC37U6s74AKvKhhC5rCY",
+        "OWNER_ID": "1008734021"
+      },
+      "createdBy": "1008734021",
+      "createdAt": "2026-04-28T11:33:40.191Z",
+      "status": "running",
+      "pid": 4449,
+      "workDir": "/home/container/instances/23d7061a0bec3671ff64a624"
     }
   ],
   "sellers": []
