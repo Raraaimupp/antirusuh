@@ -66,19 +66,6 @@
       "workDir": "/home/container/instances/dd1f7b0d90cc842cebb2f988"
     },
     {
-      "botToken": "8578565372:AAFiMKDVa6APXyznlGKUkfHCKyJ-scDvX50",
-      "botUsername": "Reyz_01bot",
-      "config": {
-        "BOT_TOKEN": "8578565372:AAFiMKDVa6APXyznlGKUkfHCKyJ-scDvX50",
-        "OWNER_ID": "8273051800"
-      },
-      "createdBy": "8273051800",
-      "createdAt": "2026-04-27T18:06:25.468Z",
-      "status": "running",
-      "pid": 1180,
-      "workDir": "/home/container/instances/37e7b7ab992f4b4b23c1ff73"
-    },
-    {
       "botToken": "8324457350:AAEG_Rc8FrOPrj80Y2M6HlzRTCLJ8R5utfQ",
       "botUsername": "winz1334_bot",
       "config": {
