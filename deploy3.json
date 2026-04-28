@@ -14,19 +14,6 @@
       "workDir": "/home/container/instances/fa606903cd529dd5e90c3320"
     },
     {
-      "botToken": "8784723877:AAHLQef3D5OfPF8F77RHE8nMThVWH16Ktpg",
-      "botUsername": "kretekdunhil_bot",
-      "config": {
-        "BOT_TOKEN": "8784723877:AAHLQef3D5OfPF8F77RHE8nMThVWH16Ktpg",
-        "OWNER_ID": "1972052567"
-      },
-      "createdBy": "1972052567",
-      "createdAt": "2026-04-27T16:23:34.599Z",
-      "status": "running",
-      "pid": 622,
-      "workDir": "/home/container/instances/679f6ee00a87fb7f7e386351"
-    },
-    {
       "botToken": "8561790971:AAHhyIMhgEJ9RBry_e8CbSeC9YYh2jGO8S0",
       "botUsername": "scarydeploy_bot",
       "config": {
