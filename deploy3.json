@@ -142,6 +142,19 @@
       "status": "running",
       "pid": 5429,
       "workDir": "/home/container/instances/feba65f489a7953e4c0811cb"
+    },
+    {
+      "botToken": "8411361127:AAGs1QNd4Pq6YoWqVE7fz_vjciOFxfUSGlE",
+      "botUsername": "fidzkalcer_bot",
+      "config": {
+        "BOT_TOKEN": "8411361127:AAGs1QNd4Pq6YoWqVE7fz_vjciOFxfUSGlE",
+        "OWNER_ID": "7649214987"
+      },
+      "createdBy": "7649214987",
+      "createdAt": "2026-04-28T11:41:03.501Z",
+      "status": "running",
+      "pid": 5919,
+      "workDir": "/home/container/instances/bdb007b74136ff1b75588d01"
     }
   ],
   "sellers": []
