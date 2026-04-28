@@ -79,19 +79,6 @@
       "workDir": "/home/container/instances/8040669617AAEC5lh9S"
     },
     {
-      "botToken": "8642199203:AAHEnpgp-i3VGVCoFaKnc3HnV7a06Rhz__c",
-      "botUsername": "Dhotz_bot",
-      "config": {
-        "BOT_TOKEN": "8642199203:AAHEnpgp-i3VGVCoFaKnc3HnV7a06Rhz__c",
-        "OWNER_ID": "8679947100"
-      },
-      "createdBy": "6105600799",
-      "createdAt": "2026-04-27T08:56:13.242Z",
-      "status": "running",
-      "pid": 2133,
-      "workDir": "/home/container/instances/8642199203AAHEnpgp"
-    },
-    {
       "botToken": "8791064391:AAF7MHeaOc5Hq1j2VH-hHUfLkugiIDFs4Go",
       "botUsername": "tyo1221bot",
       "config": {
