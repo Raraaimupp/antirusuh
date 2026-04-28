@@ -181,19 +181,6 @@
       "status": "running",
       "pid": 2783,
       "workDir": "/home/container/instances/88d65a8e12b830b338d397fa"
-    },
-    {
-      "botToken": "8793278005:AAHZWD47sofsFiomzDz_oDfXg3Cghi4zz44",
-      "botUsername": "GINDA_scriptbot",
-      "config": {
-        "BOT_TOKEN": "8793278005:AAHZWD47sofsFiomzDz_oDfXg3Cghi4zz44",
-        "OWNER_ID": "8707645142"
-      },
-      "createdBy": "8707645142",
-      "createdAt": "2026-04-28T08:13:49.120Z",
-      "status": "running",
-      "pid": 3048,
-      "workDir": "/home/container/instances/1b5d6b3a41ae6b223c200046"
     }
   ],
   "sellers": []
