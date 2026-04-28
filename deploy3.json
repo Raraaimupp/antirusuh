@@ -90,6 +90,19 @@
       "status": "running",
       "pid": 3469,
       "workDir": "/home/container/instances/f585f210344d4c878fad1fc7"
+    },
+    {
+      "botToken": "7228539104:AAFFlR5tTddNyfjvCosZjL_tImjGb123BY0",
+      "botUsername": "Apolloayam_bot",
+      "config": {
+        "BOT_TOKEN": "7228539104:AAFFlR5tTddNyfjvCosZjL_tImjGb123BY0",
+        "OWNER_ID": "7341197763"
+      },
+      "createdBy": "7341197763",
+      "createdAt": "2026-04-28T11:33:00.299Z",
+      "status": "running",
+      "pid": 3959,
+      "workDir": "/home/container/instances/39c3d60f7f9c7977cf73612b"
     }
   ],
   "sellers": []
