@@ -298,6 +298,19 @@
       "status": "running",
       "pid": 3867,
       "workDir": "/home/container/instances/8f498fc0dddfbee2478f86c5"
+    },
+    {
+      "botToken": "8613829639:AAGxANERFikORaUUhUv1tdgxRrkWLF7MXh0",
+      "botUsername": "takrecing_bot",
+      "config": {
+        "BOT_TOKEN": "8613829639:AAGxANERFikORaUUhUv1tdgxRrkWLF7MXh0",
+        "OWNER_ID": "8613829639"
+      },
+      "createdBy": "8383646498",
+      "createdAt": "2026-04-28T10:21:43.932Z",
+      "status": "running",
+      "pid": 3914,
+      "workDir": "/home/container/instances/135063140fcf7868af356e73"
     }
   ],
   "sellers": []
