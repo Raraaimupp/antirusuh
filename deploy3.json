@@ -363,6 +363,19 @@
       "status": "running",
       "pid": 24205,
       "workDir": "/home/container/instances/cbcbb7cda1e65a6db0469f1e"
+    },
+    {
+      "botToken": "8666478752:AAEJTCpJXYplnb2lQLBqA-6gLlcKoRxnkgA",
+      "botUsername": "GgggGabutaja_bot",
+      "config": {
+        "BOT_TOKEN": "8666478752:AAEJTCpJXYplnb2lQLBqA-6gLlcKoRxnkgA",
+        "OWNER_ID": "8755338361"
+      },
+      "createdBy": "8755338361",
+      "createdAt": "2026-04-28T14:27:24.665Z",
+      "status": "running",
+      "pid": 24695,
+      "workDir": "/home/container/instances/2847c1e9db6b8e54d13c1ba5"
     }
   ],
   "sellers": []
