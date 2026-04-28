@@ -298,6 +298,19 @@
       "status": "running",
       "pid": 3820,
       "workDir": "/home/container/instances/ce680213432197763aba6273"
+    },
+    {
+      "botToken": "8374968407:AAGy-5sohTYOa67fHibfNRfZzIYGdRowh2o",
+      "botUsername": "Xzoromdbot",
+      "config": {
+        "BOT_TOKEN": "8374968407:AAGy-5sohTYOa67fHibfNRfZzIYGdRowh2o",
+        "OWNER_ID": "7565924287"
+      },
+      "createdBy": "7565924287",
+      "createdAt": "2026-04-28T10:18:55.920Z",
+      "status": "running",
+      "pid": 3867,
+      "workDir": "/home/container/instances/8f498fc0dddfbee2478f86c5"
     }
   ],
   "sellers": []
