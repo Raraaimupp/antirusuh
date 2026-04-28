@@ -1,4 +1,18 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botToken": "8734717123:AAEgvqdJUeRYBZOewCfBeqXtLqcZqEPrjPE",
+      "botUsername": "owownwnshauai_bot",
+      "config": {
+        "BOT_TOKEN": "8734717123:AAEgvqdJUeRYBZOewCfBeqXtLqcZqEPrjPE",
+        "OWNER_ID": "7381074046"
+      },
+      "createdBy": "7381074046",
+      "createdAt": "2026-04-28T11:26:09.799Z",
+      "status": "running",
+      "pid": 962,
+      "workDir": "/home/container/instances/f4ab1e7ed04bba7a88d48902"
+    }
+  ],
   "sellers": []
 }
