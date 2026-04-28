@@ -92,19 +92,6 @@
       "workDir": "/home/container/instances/39c3d60f7f9c7977cf73612b"
     },
     {
-      "botToken": "8688065931:AAEHIchMqAkL19k3quzksWDqkgR5Oyi7JuM",
-      "botUsername": "rafzzmek_bot",
-      "config": {
-        "BOT_TOKEN": "8688065931:AAEHIchMqAkL19k3quzksWDqkgR5Oyi7JuM",
-        "OWNER_ID": "7587527118"
-      },
-      "createdBy": "7587527118",
-      "createdAt": "2026-04-28T11:38:09.696Z",
-      "status": "running",
-      "pid": 4939,
-      "workDir": "/home/container/instances/a0655f0a7f4f20294b691608"
-    },
-    {
       "botToken": "8411361127:AAGs1QNd4Pq6YoWqVE7fz_vjciOFxfUSGlE",
       "botUsername": "fidzkalcer_bot",
       "config": {
