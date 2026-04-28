@@ -181,6 +181,19 @@
       "status": "running",
       "pid": 2783,
       "workDir": "/home/container/instances/88d65a8e12b830b338d397fa"
+    },
+    {
+      "botToken": "7835675132:AAG8WAZ_gHoyfnLVVuejbC9U8ujwUNSiezg",
+      "botUsername": "ZackVoidBot",
+      "config": {
+        "BOT_TOKEN": "7835675132:AAG8WAZ_gHoyfnLVVuejbC9U8ujwUNSiezg",
+        "OWNER_ID": "5635205730"
+      },
+      "createdBy": "5635205730",
+      "createdAt": "2026-04-28T08:15:24.613Z",
+      "status": "running",
+      "pid": 3095,
+      "workDir": "/home/container/instances/42f39de678af3ea86e872801"
     }
   ],
   "sellers": []
