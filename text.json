@@ -1,4 +1,18 @@
 {
-  "servers": [],
+  "servers": [
+    {
+      "botToken": "8215597329:AAH5B7c1PUM8bMBZSXiPWxJw44KnQTIlDJg",
+      "botUsername": "scdembbot",
+      "config": {
+        "BOT_TOKEN": "8215597329:AAH5B7c1PUM8bMBZSXiPWxJw44KnQTIlDJg",
+        "OWNER_ID": "1398971818"
+      },
+      "createdBy": "1398971818",
+      "createdAt": "2026-04-29T10:54:45.439Z",
+      "status": "running",
+      "pid": 529,
+      "workDir": "/home/container/instances/e242c53b7c7fefacf96b5890"
+    }
+  ],
   "sellers": []
 }
