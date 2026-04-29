@@ -12,19 +12,6 @@
       "status": "running",
       "pid": 1030,
       "workDir": "/home/container/instances/91a54dee7829fd71c40e2c38"
-    },
-    {
-      "botToken": "8736009888:AAEB7hbSCLWPbubrU8Jqtg2uE5syDANdvy4",
-      "botUsername": "Wanzzxbug24bot",
-      "config": {
-        "BOT_TOKEN": "8736009888:AAEB7hbSCLWPbubrU8Jqtg2uE5syDANdvy4",
-        "OWNER_ID": "8601634033"
-      },
-      "createdBy": "8601634033",
-      "createdAt": "2026-04-29T10:59:08.304Z",
-      "status": "running",
-      "pid": 1509,
-      "workDir": "/home/container/instances/c2ed86602464ccc9b152629e"
     }
   ],
   "sellers": []
