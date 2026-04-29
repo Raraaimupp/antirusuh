@@ -144,19 +144,6 @@
       "workDir": "/home/container/instances/9963d6a2a0137a9d51c4be97"
     },
     {
-      "botToken": "8708243766:AAGAw1y6eHdVw64aKqzZPArOObiUwGTWr1o",
-      "botUsername": "trebug_bot",
-      "config": {
-        "BOT_TOKEN": "8708243766:AAGAw1y6eHdVw64aKqzZPArOObiUwGTWr1o",
-        "OWNER_ID": "7011883830"
-      },
-      "createdBy": "7011883830",
-      "createdAt": "2026-04-28T12:05:16.937Z",
-      "status": "running",
-      "pid": 12791,
-      "workDir": "/home/container/instances/c71fa8f507ce28c622f7d22a"
-    },
-    {
       "botToken": "8157410696:AAEcuCIqTJnZJXIykT4QV-JapIjRYMTbzkw",
       "botUsername": "izxflow_bot",
       "config": {
