@@ -53,19 +53,6 @@
       "workDir": "/home/container/instances/39c3d60f7f9c7977cf73612b"
     },
     {
-      "botToken": "8732722602:AAEWblJ4RHL2zFvvBkxBK1brOMCezJqEXs8",
-      "botUsername": "mbahdukunsantet2_bot",
-      "config": {
-        "BOT_TOKEN": "8732722602:AAEWblJ4RHL2zFvvBkxBK1brOMCezJqEXs8",
-        "OWNER_ID": "7759484325"
-      },
-      "createdBy": "7759484325",
-      "createdAt": "2026-04-28T11:41:59.565Z",
-      "status": "running",
-      "pid": 6409,
-      "workDir": "/home/container/instances/4c7fedbfd17b29d074bf4883"
-    },
-    {
       "botToken": "8675135789:AAGgw15WxHFlacy72Lx9vcHIzzKYn6JFTTk",
       "botUsername": "BotDimzz012_bot",
       "config": {
