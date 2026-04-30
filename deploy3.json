@@ -170,19 +170,6 @@
       "workDir": "/home/container/instances/231a088702a99981d217f8ac"
     },
     {
-      "botToken": "8717034952:AAHNiJyocebwQfke9DsK42xKcZuYD12zduI",
-      "botUsername": "ANJAYDANICUY_BOT",
-      "config": {
-        "BOT_TOKEN": "8717034952:AAHNiJyocebwQfke9DsK42xKcZuYD12zduI",
-        "OWNER_ID": "8421315627"
-      },
-      "createdBy": "8421315627",
-      "createdAt": "2026-04-28T13:54:46.174Z",
-      "status": "running",
-      "pid": 23225,
-      "workDir": "/home/container/instances/0499d0043376eacaec48a673"
-    },
-    {
       "botToken": "8666478752:AAEJTCpJXYplnb2lQLBqA-6gLlcKoRxnkgA",
       "botUsername": "GgggGabutaja_bot",
       "config": {
